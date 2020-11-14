@@ -1,0 +1,18 @@
+---
+id: professionals
+label: Professionals
+fields:
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: professionals
+    config:
+      required: true
+name: professionals.yml
+hide_body: true

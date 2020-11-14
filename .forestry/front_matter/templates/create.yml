@@ -1,0 +1,18 @@
+---
+id: create
+label: create
+fields:
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: create
+    config:
+      required: true
+name: create.yml
+hide_body: true

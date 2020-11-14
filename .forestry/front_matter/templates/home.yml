@@ -2,6 +2,22 @@
 id: home
 label: home
 fields:
+  - type: list
+    name: hero-slider
+    label: Hero Slisze
+    default: ''
+  - type: text
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+  - type: text
+    name: hero-above
+    label: Hero above
+    default: ''
+  - type: text
+    name: hero-bellow
+    label: ''
+    default: ''
   - name: permalink
     type: text
     label: Permalink

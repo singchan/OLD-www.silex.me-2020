@@ -1,18 +1,16 @@
 ---
-id: community
 label: Community
-fields:
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: community
-    config:
-      required: true
-name: community.yml
 hide_body: true
+fields:
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: community
+  config:
+    required: true

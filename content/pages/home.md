@@ -9,13 +9,13 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <p><img src="{{url}}{{baseurl}}/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Open</h3><p>Open
+- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Open</h3><p>Open
     Silex website builder in a browser. Choose a free designer-made template you like.</p>
-- html: <p><img src="{{url}}{{baseurl}}/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Customize</h3><p>Customize
+- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Customize</h3><p>Customize
     anything on your site. You can add videos, images, text &amp; more.</p>
-- html: <p><img src="{{url}}{{baseurl}}/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Publish</h3><p>When
+- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Publish</h3><p>When
     you’re ready, publish your website to easily share it with the world.</p>
-- html: <p><img src="{{url}}{{baseurl}}/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Grow</h3><p>Add
+- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Grow</h3><p>Add
     more as you grow, like transitions, animations, typography, loaders, and much
     more.</p>
 section1: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds

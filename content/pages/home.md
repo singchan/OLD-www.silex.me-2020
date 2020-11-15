@@ -27,7 +27,7 @@ section1: "<h2><strong>The freedom to create anything</strong></h2><h3>Free mind
   before you play with the tool. You can always add advanced functionality to your
   website with code - HTML, CSS, Javascript. It’s time to get your professional website.</p>"
 section1-cta-right: <p><a href="./get-started" title="Get started with Silex website
-  builder"><strong>Get started</strong></a></p>
+  builder"><strong>Get started!</strong></a></p>
 section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
   the instance provided Silex Labs for free, no installation, store your data in your
   Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
@@ -54,7 +54,7 @@ section5-cta-right: <p><a href="https://www.npmjs.com/package/silex-website-buil
 section6: "<h2><strong>Powerful features for your website</strong></h2><h3>Many useful
   and powerful functionalities</h3>"
 section6-cta-right: <p><a href="./get-started" title="Get started with Silex website
-  builder"><strong>Get started</strong></a></p>
+  builder"><strong>Get started!</strong></a></p>
 section6-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
@@ -65,7 +65,7 @@ section7-cta-left: <p><a href="./professionals" title="Silex PRO features for ag
 section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
   because free minds need to have free tools</p>"
 section8-cta-right: <p><a href="./get-started" title="Get started with Silex website
-  builder"><strong>Get started</strong></a></p>
+  builder"><strong>Get started!</strong></a></p>
 section8-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
 community: "<h2><strong>Follow us, join the community !</strong></h2><h3>Silex is
   free and open source because free minds need to have free tools</h3>"

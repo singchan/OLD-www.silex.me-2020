@@ -54,15 +54,30 @@ section7-cta-right: <p><a href="mailto:b2b@silex.me" title="Contact Silex team f
   professionals">Contact The Team</a></p>
 section7-cta-left: <p><a href="./professionals" title="Silex PRO features for agencies">More
   PRO features</a></p>
-section8: ''
-section8-cta-right: ''
-section8-cta-left: ''
-community: ''
-community-meetup: ''
-community-roadmap: ''
-community-forums: ''
-silexlabs: ''
-footer-left: ''
+section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
+  because free minds need to have free tools</p>"
+section8-cta-right: <p><a href="./get-started" title="Get started with Silex website
+  builder"><strong>Get started</strong></a></p>
+section8-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
+community: "<h2><strong>Follow us, join the community !</strong></h2><h3>Silex is
+  free and open source because free minds need to have free tools</h3>"
+community-meetup: <p><a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Join
+  or create your Meetup group"><strong>Silex Meetups</strong></a></p><p><em>Join or
+  create your Meetup group</em></p>
+community-roadmap: <p><a href="https://github.com/silexlabs/Silex/milestones" title="Silex
+  open source roadmap"><strong>Road map</strong></a></p><p>Add "+1" for features you
+  like</p>
+community-forums: <p><a href="https://github.com/silexlabs/Silex/issues" title="Silex
+  forums"><strong>Forums</strong></a></p><p><em>Real advice from real people</em></p>
+silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which started
+  it all"><strong>SILEXLABS</strong></a></p><p>The non profit where it all started</p>
+footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
+  href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
+  title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
+  title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://ceubri.github.io/silex-2020/#">Silex
+  SEO</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
+  Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
+  title="Silex for developers">Developers</a></p>
 footer-middle: ''
 footer-right: ''
 footer: ''

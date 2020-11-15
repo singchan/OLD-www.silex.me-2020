@@ -8,5 +8,7 @@ hero-cta: Get Started!
 hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
+header-slideshow:
+- html: test<br><strong>aaa<br><img src="/uploads/forestryio-screenshot.jpg"></strong>
 
 ---

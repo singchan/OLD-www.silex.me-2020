@@ -78,8 +78,25 @@ footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a
   SEO</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
   Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
   title="Silex for developers">Developers</a></p>
-footer-middle: ''
-footer-right: ''
+footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Silex
+  Labs non profit organization">About Silex Labs</a></p><p><a href="https://opencollective.com/silex"
+  title="Silex donation page">Donate</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Contribute"
+  title="Contribute to Silex">Contribute</a></p><p><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
+  title="Silex has dual license">Lisense (MPL or </a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE"
+  title="GPL Silex License">GPL</a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
+  title="Silex has dual license">)</a></p><p><a href="./community#partners" title="Silex
+  partners">Partners</a></p><p><a href="https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&amp;id=2e1b03a5f0"
+  title="Mailing list">Updates &amp; Releases</a></p><p><a href="mailto:b2b@silex.me"
+  title="Contact Silex founder">Contact Us</a></p>
+footer-right: <p>COMMUNITY</p><p><a href="http://www.silexlabs.org/events/" title="Silex
+  Labs blog">Silex Labs Blog</a></p><p><a href="https://www.meetup.com/Silex-Labs-Aperopensource/"
+  title="Meetups">Silex Labs Meetups</a></p><p><a href="https://www.facebook.com/silexlabs/"
+  title="Silex Labs on facebook">Facebook</a></p><p><a href="https://twitter.com/silexlabs"
+  title="Silex Labs on twitter">Twitter</a></p><p><a href="https://www.youtube.com/user/Silexlabs/"
+  title="SL on youtube">Youtube</a></p><p><a href="https://www.linkedin.com/company/silex-labs/"
+  title="SL on Linkedin">Linkedin</a></p><p>SUPPORT</p><p><a href="https://github.com/silexlabs/Silex/issues"
+  title="Silex Forums">Forums</a></p><p><a href="https://github.com/silexlabs/Silex/wiki"
+  title="Silex Wiki">Wiki</a></p>
 footer: ''
 features:
 - feature: "<h3>Industry-Leading SEO</h3><p>Follow your own personalized SEO plan

@@ -1,7 +1,7 @@
 ---
 layout: home
 hero-slider:
-- 100 % free website builder
+- 100% free website builder
 - Faster than wordpress website
 - A free Elementor alternative
 hero-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get

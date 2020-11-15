@@ -15,7 +15,8 @@ section5-cta-left: "<b>Documentation</b>"
 layout: home
 hero-slider: []
 hero-cta: ''
-header-slideshow: []
+header-slideshow:
+- html: <p><img src="{{url}}{{baseurl}}/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><p>test</p>
 section2-cta-right: ''
 section6: ''
 section6-cta-right: ''

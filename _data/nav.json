@@ -15,8 +15,8 @@
       "name": "Get started!"
     },
     "fr": {
-      "path": "/fr/demarrer",
-      "name": "Démarrer!"
+      "path": "/fr/commencer",
+      "name": "Commencer!"
     }
   },
   "/create": {

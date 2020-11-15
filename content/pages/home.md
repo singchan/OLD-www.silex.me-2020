@@ -138,5 +138,6 @@ section1-cta-left: <p><a href="./create" title="Learn more about Silex and freed
   about freedom</strong></a></p>
 section5-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
   title="Add Silex To Your Node.js Project">Documentation</a></p>
+lang: en
 
 ---

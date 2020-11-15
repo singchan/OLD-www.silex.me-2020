@@ -313,4 +313,5 @@ fields:
   config:
     required: true
 pages:
+- content/pages/home-fr.md
 - content/pages/home.md

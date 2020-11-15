@@ -31,14 +31,22 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
-  - type: text
+  - type: textarea
     name: section1-cta-right
     label: Section 1 CTA Right
     default: Get started!
-  - type: text
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
     name: section1-cta-left
     label: Section 1 CTA Left
     default: More about freedom
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - type: textarea
     name: section2
     label: Section 2 Text

@@ -33,12 +33,11 @@ section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing a
   Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
 section2-cta-right: <p><a href="./get-started#online" title="">Start now!</a></p>
 section2-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki" title="">Documentation</a></p>
-section3: "<h2><strong>Download Silex Desktop App</strong></h2><h3>You are in orbit
-  !</h3><p>Use the desktop version of Silex to work offline, store your data on your
-  computer - currently MacOS and Linux only.</p>"
+section3: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and nicer !</h3><p>Use the desktop version of Silex to work offline, store your data on your
+  computer, Windows, MacOS and Linux are supported.</p>"
 section3-cta-right: <p><a href="https://github.com/silexlabs/silex-desktop/releases"
   title="Download Silex desktop app">Downloads</a></p>
-section4: "<h2><strong>Deploy to your Server</strong></h2><h3>And conquer the galaxy!</h3><p>Use
+section4: "<h2><strong>Deploy to your Server</strong></h2><h3>Own your tools !</h3><p>Use
   the 1 click install, the docker image or just any server to create an instance of
   Silex under your own name, for your users or just for hacking</p>"
 section4-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
@@ -105,7 +104,7 @@ footer-right: <p>COMMUNITY</p><p><a href="http://www.silexlabs.org/events/" titl
   title="SL on Linkedin">Linkedin</a></p><p>SUPPORT</p><p><a href="https://github.com/silexlabs/Silex/issues"
   title="Silex Forums">Forums</a></p><p><a href="https://github.com/silexlabs/Silex/wiki"
   title="Silex Wiki">Wiki</a></p>
-footer: <ul><li><p>Silex is maintained by Alex Hoyau aka <a href="https://github.com/lexoyo"
+footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo"
   title="Alex Hoyau on github">lexoyo</a> and <a href="https://github.com/silexlabs/Silex/graphs/contributors"
   title="Silex contributions">Silex contributors</a> since 2009.</p></li><li><p>The
   contents of this website are © 2019 under the terms of the MIT License.</p></li><li><p>Proudly

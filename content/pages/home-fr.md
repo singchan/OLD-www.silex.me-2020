@@ -13,10 +13,13 @@ section5: "<h2>Use Silex in your project</h2>"
 section5-cta-right: "<b>Download</b>"
 section5-cta-left: "<b>Documentation</b>"
 layout: home
-hero-slider: []
-hero-cta: ''
+hero-slider:
+- Editeur de site 100% gratuit
+- Plus rapide que WordPress
+- Une alternative à Elementor
+hero-cta: <p><a href="./commencer" title="Créez votre site">Commencer!</a></p>
 header-slideshow:
-- html: "<p></p><p>test</p>"
+- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><p>test</p>
 section2-cta-right: ''
 section6: ''
 section6-cta-right: ''

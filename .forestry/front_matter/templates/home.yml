@@ -1,248 +1,248 @@
 ---
+id: home
 label: home
-hide_body: true
 fields:
-- type: list
-  name: hero-slider
-  label: Hero Slider
-  default: ''
-- type: text
-  name: hero-cta
-  label: Hero CTA
-  default: ''
-- type: field_group_list
-  name: header-slideshow
-  label: Header Slideshow
-  default: ''
-  fields:
+  - type: list
+    name: hero-slider
+    label: Hero Slider
+    default: ''
+  - type: text
+    name: hero-cta
+    label: Hero CTA
+    default: ''
+  - type: field_group_list
+    name: header-slideshow
+    label: Header Slideshow
+    default: ''
+    fields:
+      - type: textarea
+        name: html
+        label: html
+        default: ''
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
   - type: textarea
-    name: html
-    label: html
+    name: section1
+    label: Section 1
+    default: <h2>The freedom to create anything</h2>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: section1-cta-right
+    label: Section 1 CTA Right
+    default: Get started!
+  - type: textarea
+    name: section2
+    label: Section 2 Text
+    default: <h2>Start Silex Online</h2>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: section2-cta-right
+    label: Section 2 CTA Right
+    default: ''
+  - type: text
+    name: section2-cta-left
+    label: Section 2 CTA Left
+    default: Documentation
+  - type: textarea
+    name: section3
+    label: Section 3 Text
+    default: <h2>Download Silex Desktop App</h2>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: section3-cta-right
+    label: Section 3 CTA Right
+    default: <b>Downloads</b>
+  - type: textarea
+    name: section4
+    label: Section 4
+    default: <h2>Deploy to your Server</h2>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: section4-cta-left
+    label: Section 4 CTA Left
+    default: <b>Start now</b>
+  - type: text
+    name: section4-cta-right
+    label: Section 4 CTA Right
+    default: <b>Documentation</b>
+  - type: textarea
+    name: section5
+    label: Section 5 Text
+    default: <h2>Use Silex in your project</h2>
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: section5-cta-right
+    label: Section 5 CTA
+    default: <b>Download</b>
+  - type: textarea
+    name: section6
+    label: Section 6 Text
     default: ''
     config:
       wysiwyg: true
       schema:
         format: html-blocks
-- type: textarea
-  name: section1
-  label: Section 1
-  default: "<h2>The freedom to create anything</h2>"
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section1-cta-right
-  label: Section 1 CTA Right
-  default: Get started!
-- type: textarea
-  name: section2
-  label: Section 2 Text
-  default: "<h2>Start Silex Online</h2>"
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section2-cta-right
-  label: Section 2 CTA Right
-  default: ''
-- type: text
-  name: section2-cta-left
-  label: Section 2 CTA Left
-  default: Documentation
-- type: textarea
-  name: section3
-  label: Section 3 Text
-  default: "<h2>Download Silex Desktop App</h2>"
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section3-cta-right
-  label: Section 3 CTA Right
-  default: "<b>Downloads</b>"
-- type: textarea
-  name: section4
-  label: Section 4
-  default: "<h2>Deploy to your Server</h2>"
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section4-cta-left
-  label: Section 4 CTA Left
-  default: "<b>Start now</b>"
-- type: text
-  name: section4-cta-right
-  label: Section 4 CTA Right
-  default: "<b>Documentation</b>"
-- type: textarea
-  name: section5
-  label: Section 5 Text
-  default: "<h2>Use Silex in your project</h2>"
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section5-cta-right
-  label: Section 5 CTA
-  default: "<b>Download</b>"
-- type: textarea
-  name: section6
-  label: Section 6 Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section6-cta-right
-  label: Section 6 VTA Right
-  default: ''
-- type: text
-  name: section6-cta-left
-  label: Section 6 CTA Left
-  default: ''
-- type: textarea
-  name: section7
-  label: Section 7 Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section7-cta-right
-  label: Section 7 CTA Right
-  default: ''
-- type: text
-  name: section7-cta-left
-  label: Section 7 CTA Left
-  default: ''
-- type: textarea
-  name: section8
-  label: Section 8 Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: section8-cta-right
-  label: Section 8 CTA Right
-  default: ''
-- type: text
-  name: section8-cta-left
-  label: Section 8 CTA Left
-  default: ''
-- type: textarea
-  name: community
-  label: Community text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: community-meetup
-  label: Meetups
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: community-roadmap
-  label: Road map
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: community-forums
-  label: Forums
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: silexlabs
-  label: Silex Labs text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer-left
-  label: Footer Left
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer-middle
-  label: Footer Middle
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer-right
-  label: Footer RIght
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: textarea
-  name: footer
-  label: Footer Text
-  default: ''
-  config:
-    wysiwyg: true
-    schema:
-      format: html-blocks
-- type: text
-  name: hero-above
-  label: Hero above
-  default: ''
-- type: text
-  name: hero-bellow
-  label: Header text bellow
-  default: ''
-- type: field_group_list
-  name: features
-  label: Features
-  default: ''
-  fields:
+  - type: text
+    name: section6-cta-right
+    label: Section 6 VTA Right
+    default: ''
+  - type: text
+    name: section6-cta-left
+    label: Section 6 CTA Left
+    default: ''
   - type: textarea
-    name: feature
-    label: Feature
-    default: "<h3>Industry-Leading SEO<h3>"
+    name: section7
+    label: Section 7 Text
+    default: ''
     config:
       wysiwyg: true
       schema:
         format: html-blocks
-- name: permalink
-  type: text
-  label: Permalink
-  config:
-    required: true
-- name: layout
-  type: text
-  hidden: true
-  label: layout
-  default: home
-  config:
-    required: true
-pages:
-- content/pages/home.md
+  - type: text
+    name: section7-cta-right
+    label: Section 7 CTA Right
+    default: ''
+  - type: text
+    name: section7-cta-left
+    label: Section 7 CTA Left
+    default: ''
+  - type: textarea
+    name: section8
+    label: Section 8 Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: section8-cta-right
+    label: Section 8 CTA Right
+    default: ''
+  - type: text
+    name: section8-cta-left
+    label: Section 8 CTA Left
+    default: ''
+  - type: textarea
+    name: community
+    label: Community text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-meetup
+    label: Meetups
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-roadmap
+    label: Road map
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: community-forums
+    label: Forums
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: silexlabs
+    label: Silex Labs text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-left
+    label: Footer Left
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-middle
+    label: Footer Middle
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer-right
+    label: Footer RIght
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: footer
+    label: Footer Text
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: hero-above
+    label: Hero above
+    default: ''
+  - type: text
+    name: hero-bellow
+    label: Header text bellow
+    default: ''
+  - type: field_group_list
+    name: features
+    label: Features
+    default: ''
+    fields:
+      - type: textarea
+        name: feature
+        label: Feature
+        default: <h3>Industry-Leading SEO<h3>
+        config:
+          wysiwyg: true
+          schema:
+            format: html-blocks
+  - name: permalink
+    type: text
+    label: Permalink
+    config:
+      required: true
+  - name: layout
+    type: text
+    hidden: true
+    label: layout
+    default: home
+    config:
+      required: true
+name: home.yml
+hide_body: true

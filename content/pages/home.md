@@ -48,9 +48,12 @@ section6: "<h2><strong>Powerful features for your website</strong></h2><h3>Many 
 section6-cta-right: <p><a href="./get-started" title="Get started with Silex website
   builder"><strong>Get started</strong></a></p>
 section6-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
-section7: ''
-section7-cta-right: ''
-section7-cta-left: ''
+section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
+  Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
+section7-cta-right: <p><a href="mailto:b2b@silex.me" title="Contact Silex team for
+  professionals">Contact The Team</a></p>
+section7-cta-left: <p><a href="./professionals" title="Silex PRO features for agencies">More
+  PRO features</a></p>
 section8: ''
 section8-cta-right: ''
 section8-cta-left: ''

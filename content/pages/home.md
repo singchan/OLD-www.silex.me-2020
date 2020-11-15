@@ -9,7 +9,8 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <h4>test<br><strong>aaa<br><img src="/uploads/forestryio-screenshot.jpg"></strong></h4>
+- html: <p><img src="/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Open</h3><p>Open
+    Silex website builder in a browser. Choose a free designer-made template you like.</p>
 - html: '<span style="text-decoration: underline;">test 2</span>'
 section1: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds
   need free tools to make the world a better place</h3><p>Whether you’re a maker about

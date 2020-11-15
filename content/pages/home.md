@@ -101,7 +101,9 @@ footer: <ul><li><p>Silex is maintained by Alex Hoyau aka <a href="https://github
   title="Alex Hoyau on github">lexoyo</a> and <a href="https://github.com/silexlabs/Silex/graphs/contributors"
   title="Silex contributions">Silex contributors</a> since 2009.</p></li><li><p>The
   contents of this website are © 2019 under the terms of the MIT License.</p></li><li><p>Proudly
-  hosted by GitHub</p></li></ul>
+  hosted by GitHub, powered by <a href="https://www.silex.me/" title="Silex free website
+  builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
+  headless CMS</a></p></li></ul>
 features:
 - feature: "<h3>Industry-Leading SEO</h3><p>Follow your own personalized SEO plan
     to get your website found on Google.</p>"

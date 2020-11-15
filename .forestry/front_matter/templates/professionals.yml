@@ -98,6 +98,10 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
+  - type: text
+    name: lang
+    label: Lang
+    default: en
   - name: permalink
     type: text
     label: Permalink

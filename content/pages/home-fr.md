@@ -16,7 +16,7 @@ layout: home
 hero-slider: []
 hero-cta: ''
 header-slideshow:
-- html: <p><img src="{{url}}{{baseurl}}/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><p>test</p>
+- html: "<p></p><p>test</p>"
 section2-cta-right: ''
 section6: ''
 section6-cta-right: ''

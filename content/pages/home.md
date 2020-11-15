@@ -9,8 +9,9 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <p><img src="/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Open</h3><p>Open
-    Silex website builder in a browser. Choose a free designer-made template you like.</p>
+- html: <p><img src="/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Open
+    </h3><p>Open Silex website builder in a browser. Choose a free designer-made template
+    you like.</p>
 - html: <p><img src="/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Customize</h3><p>Customize
     anything on your site. You can add videos, images, text &amp; more.</p>
 - html: <p><img src="/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Publish</h3><p>When

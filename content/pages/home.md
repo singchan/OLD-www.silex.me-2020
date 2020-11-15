@@ -18,8 +18,11 @@ section1: "<h2><strong>The freedom to create anything</strong></h2><h3>Free mind
   and start with one of the a free website provided with Silex, or follow a tutorial
   before you play with the tool. You can always add advanced functionality to your
   website with code - HTML, CSS, Javascript. It’s time to get your professional website.</p>"
-section1-cta-right: ''
-section2: ''
+section1-cta-right: <p><a href="./get-started" title="Get started with Silex website
+  builder"><strong>Get started</strong></a></p>
+section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
+  the instance provided Silex Labs for free, no installation, store your data in your
+  Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
 section2-cta-right: ''
 section2-cta-left: ''
 section3: ''
@@ -48,5 +51,7 @@ footer-middle: ''
 footer-right: ''
 footer: ''
 features: []
+section1-cta-left: <p><a href="./freedom" title="Learn more about Silex and freedom"><strong>More
+  about freedom</strong></a></p>
 
 ---

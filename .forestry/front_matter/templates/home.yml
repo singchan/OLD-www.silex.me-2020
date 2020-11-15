@@ -35,6 +35,10 @@ fields:
     name: section1-cta-right
     label: Section 1 CTA Right
     default: Get started!
+  - type: text
+    name: section1-cta-left
+    label: Section 1 CTA Left
+    default: More about freedom
   - type: textarea
     name: section2
     label: Section 2 Text

@@ -40,5 +40,6 @@ footer: ''
 hero-above: ''
 hero-bellow: ''
 permalink: "/fr/"
+lang: fr
 
 ---

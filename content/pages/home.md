@@ -25,13 +25,23 @@ section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing a
   Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
 section2-cta-right: <p><a href="./get-started#online" title="">Start now!</a></p>
 section2-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki" title="">Documentation</a></p>
-section3: ''
-section3-cta-right: ''
-section4: ''
-section4-cta-left: ''
-section4-cta-right: ''
-section5: ''
-section5-cta-right: ''
+section3: "<h2><strong>Download Silex Desktop App</strong></h2><h3>You are in orbit
+  !</h3><p>Use the desktop version of Silex to work offline, store your data on your
+  computer - currently MacOS and Linux only.</p>"
+section3-cta-right: <p><a href="https://github.com/silexlabs/silex-desktop/releases"
+  title="Download Silex desktop app">Downloads</a></p>
+section4: "<h2><strong>Deploy to your Server</strong></h2><h3>And conquer the galaxy!</h3><p>Use
+  the 1 click install, the docker image or just any server to create an instance of
+  Silex under your own name, for your users or just for hacking</p>"
+section4-cta-left: <p><a href="https://heroku.com/deploy?template=https://github.com/silexlabs/Silex/tree/master"
+  title="1 click install to your server">1 click install on Heroku</a></p>
+section4-cta-right: <p><a href="" title="">Documentation</a></p>
+section5: "<h2><strong>Use Silex in your project</strong></h2><h3>Hack Silex, get
+  it from npm</h3><p>Use npm to install Silex on you local computer or include it
+  in a project, then run it with specific parameters or even replace some parts of
+  it</p>"
+section5-cta-right: <p><a href="https://www.npmjs.com/package/silex-website-builder"
+  title="Silex package on npm">Silex on npm</a></p>
 section6: ''
 section6-cta-right: ''
 section6-cta-left: ''

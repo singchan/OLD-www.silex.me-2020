@@ -4,7 +4,8 @@ hero-slider:
 - 100 % free website builder
 - Faster than wordpress website
 - A free Elementor alternative
-hero-cta: Get Started!
+hero-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
+  started!</strong></a></p>
 hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"

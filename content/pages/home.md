@@ -43,9 +43,11 @@ section5: "<h2><strong>Use Silex in your project</strong></h2><h3>Hack Silex, ge
   it</p>"
 section5-cta-right: <p><a href="https://www.npmjs.com/package/silex-website-builder"
   title="Silex package on npm">Silex on npm</a></p>
-section6: "<p></p>"
-section6-cta-right: ''
-section6-cta-left: ''
+section6: "<h2><strong>Powerful features for your website</strong></h2><h3>Many useful
+  and powerful functionalities</h3>"
+section6-cta-right: <p><a href="./get-started" title="Get started with Silex website
+  builder"><strong>Get started</strong></a></p>
+section6-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
 section7: ''
 section7-cta-right: ''
 section7-cta-left: ''
@@ -62,8 +64,9 @@ footer-middle: ''
 footer-right: ''
 footer: ''
 features: []
-section1-cta-left: <p><a href="./freedom" title="Learn more about Silex and freedom"><strong>More
+section1-cta-left: <p><a href="./create" title="Learn more about Silex and freedom"><strong>More
   about freedom</strong></a></p>
-section5-cta-left: ''
+section5-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
+  title="Add Silex To Your Node.js Project">Documentation</a></p>
 
 ---

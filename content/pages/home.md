@@ -10,5 +10,6 @@ hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
 - html: test<br><strong>aaa<br><img src="/uploads/forestryio-screenshot.jpg"></strong>
+- html: '<span style="text-decoration: underline;">test 2</span>'
 
 ---

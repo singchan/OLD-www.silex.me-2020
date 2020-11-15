@@ -39,6 +39,6 @@ footer-right: ''
 footer: ''
 hero-above: ''
 hero-bellow: ''
-permalink: "/fr"
+permalink: "/fr/"
 
 ---

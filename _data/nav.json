@@ -1,0 +1,62 @@
+{
+  "/": {
+    "en": {
+      "path": "/",
+      "name": "Home"
+    },
+    "fr": {
+      "path": "/fr",
+      "name": "Accueil"
+    }
+  },
+  "/get-started": {
+    "en": {
+      "path": "/get-started",
+      "name": "Get started!"
+    },
+    "fr": {
+      "path": "/fr/demarrer",
+      "name": "Démarrer!"
+    }
+  },
+  "/create": {
+    "en": {
+      "path": "/create",
+      "name": "Create"
+    },
+    "fr": {
+      "path": "/fr/creer",
+      "name": "Créer"
+    }
+  },
+  "/features": {
+    "en": {
+      "path": "/features",
+      "name": "Features"
+    },
+    "fr": {
+      "path": "/fr/fonctionnalites",
+      "name": "Fonctionnalités"
+    }
+  },
+  "/pro": {
+    "en": {
+      "path": "/pro",
+      "name": "Professionals"
+    },
+    "fr": {
+      "path": "/fr/pro",
+      "name": "Professionnels"
+    }
+  },
+  "/community": {
+    "en": {
+      "path": "/community",
+      "name": "Community"
+    },
+    "fr": {
+      "path": "/fr/communauté",
+      "name": "Communauté"
+    }
+  }
+}

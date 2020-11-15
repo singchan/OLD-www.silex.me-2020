@@ -23,8 +23,8 @@ section1-cta-right: <p><a href="./get-started" title="Get started with Silex web
 section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
   the instance provided Silex Labs for free, no installation, store your data in your
   Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
-section2-cta-right: ''
-section2-cta-left: ''
+section2-cta-right: <p><a href="./get-started#online" title="">Start now!</a></p>
+section2-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki" title="">Documentation</a></p>
 section3: ''
 section3-cta-right: ''
 section4: ''

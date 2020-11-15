@@ -63,7 +63,11 @@ footer-left: ''
 footer-middle: ''
 footer-right: ''
 footer: ''
-features: []
+features:
+- feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your
+    favorite services such as YouTube, SoundCloud, Twitter, etc.</p>"
+- feature: "<h3>Industry-Leading SEO</h3><p>Follow your own personalized SEO plan
+    to get your website found on Google.</p>"
 section1-cta-left: <p><a href="./create" title="Learn more about Silex and freedom"><strong>More
   about freedom</strong></a></p>
 section5-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"

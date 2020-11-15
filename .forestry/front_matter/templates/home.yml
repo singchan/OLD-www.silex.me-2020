@@ -1,47 +1,47 @@
 ---
-id: home
 label: home
-fields:
-  - type: list
-    name: hero-slider
-    label: Hero Slider
-    default: ''
-  - type: text
-    name: hero-cta
-    label: Hero CTA
-    default: ''
-  - type: field_group_list
-    name: header-slideshow
-    label: Header Slideshow
-    default: ''
-    fields:
-      - type: textarea
-        name: html
-        label: html
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html
-  - type: text
-    name: hero-above
-    label: Hero above
-    default: ''
-  - type: text
-    name: hero-bellow
-    label: ''
-    default: ''
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: home
-    config:
-      required: true
-name: home.yml
 hide_body: true
+fields:
+- type: list
+  name: hero-slider
+  label: Hero Slider
+  default: ''
+- type: text
+  name: hero-cta
+  label: Hero CTA
+  default: ''
+- type: field_group_list
+  name: header-slideshow
+  label: Header Slideshow
+  default: ''
+  fields:
+  - type: textarea
+    name: html
+    label: html
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html
+- type: text
+  name: hero-above
+  label: Hero above
+  default: ''
+- type: text
+  name: hero-bellow
+  label: ''
+  default: ''
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: home
+  config:
+    required: true
+pages:
+- content/pages/home.md

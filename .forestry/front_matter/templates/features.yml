@@ -1,18 +1,16 @@
 ---
-id: features
 label: features
-fields:
-  - name: permalink
-    type: text
-    label: Permalink
-    config:
-      required: true
-  - name: layout
-    type: text
-    hidden: true
-    label: layout
-    default: features
-    config:
-      required: true
-name: features.yml
 hide_body: true
+fields:
+- name: permalink
+  type: text
+  label: Permalink
+  config:
+    required: true
+- name: layout
+  type: text
+  hidden: true
+  label: layout
+  default: features
+  config:
+    required: true

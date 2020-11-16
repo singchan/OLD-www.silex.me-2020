@@ -45,16 +45,16 @@ hero-slider:
 - Une alternative à Elementor
 hero-cta: <p><a href="./commencer" title="Créez votre site">Commencer !</a></p>
 header-slideshow:
-- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Ouvrez</h3><p>Ouvrez
+- html: <p><img src="/www.silex.me-2020/uploads/ico-step-01.svg"></p><h3>Ouvrez</h3><p>Ouvrez
     Silex dans un navigateur web. Choisissez un modèle que vous aimez.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Modifiez</h3><p>Modifiez
+- html: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p><h3>Modifiez</h3><p>Modifiez
     le contenu de votre nouveau site. Vous avez le droit aux vidéos, images, text
     &amp; bien plus.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Publiez</h3><p>Quand
+- html: <p><img src="/www.silex.me-2020/uploads/ico-step-03.svg"></p><h3>Publiez</h3><p>Quand
     vous êtes satisfaits, publiez le site en ligne et partagez le largement !</p>
-- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Evoluez</h3><p>
-    Ajoutez de la complexité dans votre design, comme des transitions, des animations,
-    de la typography, et bien plus.</p>
+- html: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p><h3>Evoluez</h3><p>Ajoutez
+    de la complexité dans votre design, comme des transitions, des animations, de
+    la typography, et bien plus.</p>
 section2-cta-right: <p><a href="./commencer#en-ligne" title="">Commencer !</a></p>
 section6: "<h2><strong>Des fonctionnalités puissantes</strong></h2><h3>Tout ce dont
   vous avez besoin pour créer un site</h3>"

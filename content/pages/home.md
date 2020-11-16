@@ -10,9 +10,9 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Open</h3><p>Open
+- html: <p><img src="/www.silex.me-2020/uploads/ico-step-01.svg"><img src="/www.silex.me-2020/uploads/ico-step-01.svg"></p><h3>Open</h3><p>Open
     Silex website builder in a browser. Choose a free designer-made template you like.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Customize</h3><p>Customize
+- html: <p><img src="/www.silex.me-2020/uploads/ico-step-01.svg"></p><h3>Customize</h3><p>Customize
     anything on your site. You can add videos, images, text &amp; more.</p>
 - html: <p><img src="/www.silex.me-2020/uploads/screenshot-from-2020-11-15-19-06-03.png"></p><h3>Publish</h3><p>When
     you’re ready, publish your website to easily share it with the world.</p>
@@ -33,8 +33,9 @@ section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing a
   Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
 section2-cta-right: <p><a href="./get-started#online" title="">Start now!</a></p>
 section2-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki" title="">Documentation</a></p>
-section3: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster and nicer !</h3><p>Use the desktop version of Silex to work offline, store your data on your
-  computer, Windows, MacOS and Linux are supported.</p>"
+section3: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster
+  and nicer !</h3><p>Use the desktop version of Silex to work offline, store your
+  data on your computer, Windows, MacOS and Linux are supported.</p>"
 section3-cta-right: <p><a href="https://github.com/silexlabs/silex-desktop/releases"
   title="Download Silex desktop app">Downloads</a></p>
 section4: "<h2><strong>Deploy to your Server</strong></h2><h3>Own your tools !</h3><p>Use
@@ -104,8 +105,8 @@ footer-right: <p>COMMUNITY</p><p><a href="http://www.silexlabs.org/events/" titl
   title="SL on Linkedin">Linkedin</a></p><p>SUPPORT</p><p><a href="https://github.com/silexlabs/Silex/issues"
   title="Silex Forums">Forums</a></p><p><a href="https://github.com/silexlabs/Silex/wiki"
   title="Silex Wiki">Wiki</a></p>
-footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo"
-  title="Alex Hoyau on github">lexoyo</a> and <a href="https://github.com/silexlabs/Silex/graphs/contributors"
+footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" title="Alex
+  Hoyau on github">lexoyo</a> and <a href="https://github.com/silexlabs/Silex/graphs/contributors"
   title="Silex contributions">Silex contributors</a> since 2009.</p></li><li><p>The
   contents of this website are © 2019 under the terms of the MIT License.</p></li><li><p>Proudly
   hosted by GitHub, powered by <a href="https://www.silex.me/" title="Silex free website

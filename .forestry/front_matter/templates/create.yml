@@ -138,3 +138,5 @@ fields:
   default: create
   config:
     required: true
+pages:
+- content/pages/create.md

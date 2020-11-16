@@ -16,6 +16,6 @@ footer-left: ''
 footer-middle: ''
 footer-right: ''
 footer: ''
-permalink: "/create"
+permalink: "/create/"
 
 ---

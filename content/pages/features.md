@@ -1,9 +1,12 @@
 ---
 lang: en
 layout: features
-header: ''
-section1: ''
-section1-cta: ''
+header: "<h2><strong>Powerful features for your website</strong></h2><h3>What Makes
+  Silex Website Builder<br>the Best Choice for You?</h3>"
+section1: <p><a href="Scroll to the feature list" title="#features"><strong>List of
+  features</strong></a></p>
+section1-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
+  started!</strong></a></p>
 features: []
 section7: ''
 section7-cta-right: ''

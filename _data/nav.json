@@ -58,5 +58,17 @@
       "path": "/fr/communauté",
       "name": "Communauté"
     }
+  },
+  "lang-switch": {
+    "en": {
+      "path": "/fr",
+      "name": "Français",
+      "short": "FR"
+    },
+    "fr": {
+      "path": "/",
+      "name": "English",
+      "short": "EN"
+    }
   }
 }

@@ -13,7 +13,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: field_group_list
     name: header-slideshow
     label: Header Slideshow
@@ -26,7 +26,7 @@ fields:
         config:
           wysiwyg: true
           schema:
-            format: html
+            format: html-blocks
   - type: textarea
     name: section1
     label: Section 1
@@ -34,7 +34,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section1-cta-right
     label: Section 1 CTA Right
@@ -42,7 +42,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section1-cta-left
     label: Section 1 CTA Left
@@ -50,7 +50,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section2
     label: Section 2 Text
@@ -58,7 +58,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section2-cta-right
     label: Section 2 CTA Right
@@ -66,7 +66,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section2-cta-left
     label: Section 2 CTA Left
@@ -74,7 +74,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section3
     label: Section 3 Text
@@ -82,7 +82,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section3-cta-right
     label: Section 3 CTA Right
@@ -90,7 +90,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section4
     label: Section 4
@@ -98,7 +98,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section4-cta-right
     label: Section 4 CTA Right
@@ -106,7 +106,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section4-cta-left
     label: Section 4 CTA Left
@@ -114,7 +114,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section5
     label: Section 5 Text
@@ -122,7 +122,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section5-cta-right
     label: Section 5 CTA
@@ -130,7 +130,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section6
     label: Section 6 Text
@@ -138,7 +138,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section6-cta-right
     label: Section 6 VTA Right
@@ -146,7 +146,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section6-cta-left
     label: Section 6 CTA Left
@@ -154,7 +154,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: field_group_list
     name: features
     label: Features
@@ -167,7 +167,7 @@ fields:
         config:
           wysiwyg: true
           schema:
-            format: html
+            format: html-blocks
   - type: textarea
     name: section7
     label: Section 7 Text
@@ -175,7 +175,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section7-cta-right
     label: Section 7 CTA Right
@@ -183,7 +183,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section7-cta-left
     label: Section 7 CTA Left
@@ -191,7 +191,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section8
     label: Section 8 Text
@@ -199,7 +199,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section8-cta-right
     label: Section 8 CTA Right
@@ -207,7 +207,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: section8-cta-left
     label: Section 8 CTA Left
@@ -215,7 +215,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: community
     label: Community text
@@ -223,7 +223,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: community-meetup
     label: Meetups
@@ -231,7 +231,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: community-roadmap
     label: Road map
@@ -239,7 +239,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: community-forums
     label: Forums
@@ -247,7 +247,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: silexlabs
     label: Silex Labs text
@@ -255,7 +255,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer-left
     label: Footer Left
@@ -263,7 +263,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer-middle
     label: Footer Middle
@@ -271,7 +271,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer-right
     label: Footer RIght
@@ -279,7 +279,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer
     label: Footer Text
@@ -287,7 +287,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: text
     name: hero-above
     label: Hero above
@@ -303,7 +303,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: text
     name: lang
     label: Lang

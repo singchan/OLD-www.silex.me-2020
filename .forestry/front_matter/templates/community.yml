@@ -9,7 +9,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: community-meetup
     label: Meetups
@@ -17,7 +17,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: community-roadmap
     label: Road map
@@ -25,7 +25,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: community-forums
     label: Forums
@@ -33,7 +33,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: silexlabs
     label: Silex Labs text
@@ -41,7 +41,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer-left
     label: Footer Left
@@ -49,7 +49,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer-middle
     label: Footer Middle
@@ -57,7 +57,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer-right
     label: Footer RIght
@@ -65,7 +65,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: textarea
     name: footer
     label: Footer Text
@@ -73,7 +73,7 @@ fields:
     config:
       wysiwyg: true
       schema:
-        format: html
+        format: html-blocks
   - type: text
     name: lang
     label: Lang

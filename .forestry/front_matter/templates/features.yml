@@ -11,6 +11,14 @@ fields:
       schema:
         format: html-blocks
   - type: textarea
+    name: header-cta
+    label: Header CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
     name: section1
     label: Section 1
     default: ''

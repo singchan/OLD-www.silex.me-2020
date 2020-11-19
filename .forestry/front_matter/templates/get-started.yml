@@ -194,3 +194,5 @@ fields:
   default: get-started
   config:
     required: true
+pages:
+- content/pages/get-started.md

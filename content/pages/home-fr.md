@@ -62,8 +62,7 @@ section6-cta-right: <p><a href="./commencer" title="Utilisez Silex gratuitement"
   !</strong></a></p>
 section6-cta-left: <p><a href="./fonctionnalites" title="Silex fonctionnalités">Fonctionnalités</a></p>
 features:
-- feature: "<h3>Industry-Leading SEO</h3><p>Follow your own personalized SEO plan
-    to get your website found on Google.</p>"
+- feature: "<h3>SEO de qualité professionelle</h3><p>Pas de compromis sur votre plan de taggage, vous appliquez votre stratégie pour que votre site soit bien positionné dans Google</p>"
 - feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your
     favorite services such as YouTube, SoundCloud, Twitter, etc.</p>"
 - feature: "<h3>Forms</h3><p>Use Silex form component and plug it to Formspree, or

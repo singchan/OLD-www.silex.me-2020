@@ -1,34 +1,6 @@
 ---
-lang: en
-layout: features
-header: "<h2><strong>Powerful features for your website</strong></h2><h3>What Makes
-  Silex Website Builder<br>the Best Choice for You?</h3>"
-section1: "<h2>Still not convinced? Try our open source website builder now.</h2><h3>Every
-  day, people worldwide use Silex to take control of their online presence.</h3>"
-section1-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
-  started!</strong></a></p>
-features:
-- feature: "<h3>Industry-Leading SEO</h3><p>Follow your own personalized SEO plan
-    to get your website found on Google.</p>"
-- feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your
-    favorite services such as YouTube, SoundCloud, Twitter, etc.</p>"
-- feature: "<h3>Forms</h3><p>Use Silex form component and plug it to Formspree, or
-    embed forms you create with Google forms, Frama Forms, etc.</p>"
-- feature: "<h3>Mobile Friendly</h3><p>Look amazing on every screen with a customizable
-    mobile-friendly version of your website.</p>"
-- feature: "<h3>Live web creation</h3><p>When you change something in Silex, you see
-    the result immediately. Iterating on design is much easier.</p>"
-- feature: "<h3>Work Online</h3><p>Build websites from within the browser, no install
-    required, never lose your data, collaborate, work instantly from any computer.</p>"
-- feature: "<h3>Work offline</h3><p>With the desktop app you can keep your data to
-    yourself and see exactly what Silex does. There is no installation, just launch
-    the app on your computer.</p>"
-- feature: "<h3>Learn the standards</h3><p>Only common settings are available in the
-    visual editor. When you need more, Silex helps you write CSS without leaving the
-    editor and with immediate feedback.</p>"
-- feature: "<h3>Do not lock yourself in</h3><p>We did not create concepts or jargon,
-    we use those from the open web standards. What you learn here will be useful to
-    you, everywhere.</p>"
+lang: fr
+layout: create
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
 section7-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
@@ -86,8 +58,52 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   hosted by GitHub, powered by <a href="https://www.silex.me/" title="Silex free website
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
-permalink: "/features/"
-header-cta: <p><a href="Scroll to the feature list" title="#features"><strong>List
-  of features</strong></a></p>
+permalink: "/fr/creer/"
+header: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds need
+  free tools to make the world a better place</h3><p>Whether you’re a maker about
+  to create a website for the first time or you’re a pro designer or coder making
+  websites for customers, you will love Silex. You have two ways to start: open Silex
+  and start with one of the a free website provided with Silex, or follow a tutorial
+  before you play with the tool. You can always add advanced functionality to your
+  website with code - HTML, CSS, Javascript. It’s time to get your professional website.</p>"
+hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section1: "<h2>How to create a free website website</h2><h3>builder in just <strong>3
+  easy steps</strong>:</h3>"
+section2: "<h2>Open</h2><p>Open Silex website builder in a browser,<br>choose a free
+  designer-made template you like</p>"
+section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add videos,
+  images, text &amp; more...</p>"
+section4: "<h2>Publish!</h2><p>When you’re ready,<br>publish your website to easily
+  share it with the world.</p>"
+section5: "<h2>Total Design Freedom, DIY!</h2><h3>You can customize anything you want</h3><p>Start
+  with a blank slate or choose from the designer-made templates, released as Creative
+  Commons and included in Silex. With the #1 open source drag and drop website builder,
+  you can customize anything you want. Create beautiful websites with texts, images,
+  videos, slideshows, and more—all without worrying about code. With the Silex, you
+  can design the most custom websites, all on your own.</p>"
+section6: "<h2>Silex Publication,<br>Get Online Fast!</h2><h3>Lightning fast</h3><p>You’ll
+  love how fast you can get online—and look amazing! Silex publication feature will
+  optimize your creation for performance and SEO. And then you choose where you want
+  to host your website, for free on GitHub pages–even with your domain name and without
+  ads, or with and hosting company thanks to the FTP deployment options. When you’re
+  ready, go live in a click.</p>"
+section9: "<h2>Hacking Without Limits</h2><h3>Open to your code at every level</h3><p>You
+  can code from within the editor, with immediate feedback and the deployment capabilities
+  of Silex. Add any front end feature. Plug into any third party API, add transitions,
+  animations, typography, loaders, prefetch the pages, add custom forms and change
+  site behavior with JQuery or just HTML, CSS and Javascript. With your hackable website
+  builder, you can create anything you want.</p>"
+section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files only,
+  your files where you want it to be</h3><p>Due to its static nature and the way elements
+  are absolutely positioned, Silex is extremely simple yet powerful: no databases,
+  no security issues, no limitations for the design. Plus it is free and open source
+  so you own your data and get to choose where you store it while working on your
+  website–on your Dropbox or Own Cloud or Next Cloud for their collaborative capabilities,
+  on GitHub for the versioning or FTP or local file system. Most of these services
+  are available online so you can work from anywhere, or use the desktop version to
+  work offline. And finally, Silex generates websites which are so simple that you
+  can host them for free with GitHub Pages, or push directly to any web host.</p>"
+section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 
 ---

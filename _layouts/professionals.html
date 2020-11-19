@@ -1,4 +1,4 @@
-<!doctype html><html class="" lang=""><head>
+<!doctype html><html class="" lang="{{ lang }}"><head>
     <meta charset="UTF-8">
     <!-- generator meta tag -->
     <!-- leave this for stats and Silex version check -->
@@ -14,11 +14,11 @@
     
     
     
-    <title>Silex</title>
+    <title>{{ title | default:  langs[lang].title }}</title>
     
 
     
-<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content=" The best free website builder !"><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&amp;display=swap" rel="stylesheet" class="silex-custom-font"><script src="{{ site.url }}{{ site.baseurl }}/js/script.js" type="text/javascript"></script><link href="{{ site.url }}{{ site.baseurl }}/css/styles.css" rel="stylesheet" type="text/css"><script src="{{ site.url }}{{ site.baseurl }}/js/splide.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1"><meta name="description" content="{{ description | default:  langs[lang].description }}"><link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;700&amp;display=swap" rel="stylesheet" class="silex-custom-font"><link href="{{ site.url }}{{ site.baseurl }}/css/silex-icon-2018@200px.png" rel="shortcut icon"><meta name="twitter:title" content="{{ title | default:  langs[lang].title }}"><meta name="og:title" content="{{ title | default:  langs[lang].title }}"><meta name="twitter:description" content="{{ description | default:  langs[lang].description }}"><meta name="og:description" content="{{ description | default:  langs[lang].description }}"><meta name="twitter:image" content="https://www.silex.me/assets/social-networks-image.png"><meta name="og:image" content="https://www.silex.me/assets/social-networks-image.png"><meta name="twitter:card" content="summary"><meta name="twitter:site" content="@silexlabs"><script src="{{ site.url }}{{ site.baseurl }}/js/script.js" type="text/javascript"></script><link href="{{ site.url }}{{ site.baseurl }}/css/styles.css" rel="stylesheet" type="text/css"><script src="{{ site.url }}{{ site.baseurl }}/js/splide.min.js"></script>
 <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/css/splide.min.css">
 <style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
 

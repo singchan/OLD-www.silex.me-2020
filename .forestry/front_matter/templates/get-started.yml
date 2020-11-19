@@ -195,4 +195,5 @@ fields:
   config:
     required: true
 pages:
+- content/pages/get-started-fr.md
 - content/pages/get-started.md

@@ -5,16 +5,16 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: directory
+  path: content/pages
+  label: Pages
+  create: all
+  match: "**/*"
+- type: directory
   path: _data
   label: Settings
   create: documents
   match: "**/*"
   new_doc_ext: ".json"
-- type: directory
-  path: content/pages
-  label: Pages
-  create: all
-  match: "**/*"
 upload_dir: uploads
 public_path: "/www.silex.me-2020/uploads"
 front_matter_path: ''

@@ -1,6 +1,6 @@
 ---
 lang: fr
-permalink: /fr/commencer/
+permalink: "/fr/commencer/"
 layout: get-started
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
@@ -59,5 +59,18 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   hosted by GitHub, powered by <a href="https://www.silex.me/" title="Silex free website
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
+section2: "<h2>Start Silex Online</h2>"
+section2-cta-left: Documentation
+section3: "<h2>Download Silex Desktop App</h2>"
+section3-cta-right: "<b>Downloads</b>"
+section4: "<h2>Deploy to your Server</h2>"
+section4-cta-right: "<b>Start now</b>"
+section4-cta-left: "<b>Documentation</b>"
+section5: "<h2>Use Silex in your project</h2>"
+section5-cta-right: "<b>Download</b>"
+section5-cta-left: "<b>Documentation</b>"
+section2-cta-right: ''
+header: ''
+header-cta: ''
 
 ---

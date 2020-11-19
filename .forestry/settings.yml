@@ -11,10 +11,10 @@ sections:
   match: "**/*"
 - type: directory
   path: _data
-  label: Settings
+  label: Data
   create: documents
   match: "**/*"
-  new_doc_ext: ".json"
+  new_doc_ext: json
 upload_dir: uploads
 public_path: "/www.silex.me-2020/uploads"
 front_matter_path: ''

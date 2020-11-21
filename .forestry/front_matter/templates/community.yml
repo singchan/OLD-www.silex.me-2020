@@ -188,4 +188,5 @@ fields:
   config:
     required: true
 pages:
+- content/pages/community-fr.md
 - content/pages/community.md

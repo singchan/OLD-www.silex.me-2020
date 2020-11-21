@@ -3,8 +3,8 @@ lang: fr
 layout: features
 header: "<h2><strong>Powerful features for your website</strong></h2><h3>What Makes
   Silex Website Builder<br>the Best Choice for You?</h3>"
-section1: "<h2>Still not convinced? Try our open source website builder now.</h2><h3>Every
-  day, people worldwide use Silex to take control of their online presence.</h3>"
+section1: "<h2>Try our open source website builder now.</h2><h3>Every day, people
+  worldwide use Silex to take control of their online presence.</h3>"
 section1-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 features:

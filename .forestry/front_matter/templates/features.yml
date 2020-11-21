@@ -184,4 +184,5 @@ fields:
   config:
     required: true
 pages:
+- content/pages/features-fr.md
 - content/pages/features.md

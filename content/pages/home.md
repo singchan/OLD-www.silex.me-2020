@@ -10,22 +10,18 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <p><img src="/uploads/ico-step-01.svg"></p><h3>Open</h3><p>Open
-    Silex website builder in a browser. Choose a free designer-made template you like.</p>
+- html: <p><img src="/uploads/ico-step-01.svg"></p><h3>Open</h3><p>Open Silex website
+    builder in a browser. Choose a free designer-made template you like.</p>
 - html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Customize</h3><p>Customize
     anything on your site. You can add videos, images, text &amp; more.</p>
-- html: <p><img src="/uploads/ico-step-03.svg"></p><h3>Publish</h3><p>When
-    you’re ready, publish your website to easily share it with the world.</p>
-- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add
-    more as you grow, like transitions, animations, typography, loaders, and much
-    more.</p>
+- html: <p><img src="/uploads/ico-step-03.svg"></p><h3>Publish</h3><p>When you’re
+    ready, publish your website to easily share it with the world.</p>
+- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add more as you
+    grow, like transitions, animations, typography, loaders, and much more.</p>
 section1: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds
   need free tools to make the world a better place</h3><p>Whether you’re a maker about
   to create a website for the first time or you’re a pro designer or coder making
-  websites for customers, you will love Silex. You have two ways to start: open Silex
-  and start with one of the a free website provided with Silex, or follow a tutorial
-  before you play with the tool. You can always add advanced functionality to your
-  website with code - HTML, CSS, Javascript. It’s time to get your professional website.</p>"
+  websites for customers, you will love Silex.</p>"
 section1-cta-right: <p><a href="./get-started" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>
 section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
@@ -82,8 +78,8 @@ silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which s
 footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
   href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
-  title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
-  Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
+  title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases"
+  title="Download Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
   title="Silex for developers">Developers</a></p>
 footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Silex
   Labs non profit organization">About Silex Labs</a></p><p><a href="https://opencollective.com/silex"

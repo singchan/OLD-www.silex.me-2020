@@ -60,12 +60,11 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   headless CMS</a></p></li></ul>
 permalink: "/create/"
 header: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds need
-  free tools to make the world a better place</h3><p>Whether you’re a maker about
-  to create a website for the first time or you’re a pro designer or coder making
-  websites for customers, you will love Silex. You have two ways to start: open Silex
-  and start with one of the a free website provided with Silex, or follow a tutorial
-  before you play with the tool. You can always add advanced functionality to your
-  website with code - HTML, CSS, Javascript. It’s time to get your professional website.</p>"
+  free tools to make the world a better place</h3><p>Freedom in the case of a website
+  builder means <strong>forever free</strong> guarantee, open <strong>standards</strong>,
+  easy <strong>integration</strong> with other tools, friendly passionate <strong>community</strong>,
+  infinite <strong>customization</strong> possibilities. And also a freedom to design
+  a website as you would draw it.</p>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>How to create a free website website</h2><h3>builder in just <strong>3
   easy steps</strong>:</h3>"

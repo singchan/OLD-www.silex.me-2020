@@ -59,9 +59,9 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
 permalink: "/create/"
-header: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds need
-  free tools to make the world a better place</h3><p>Whether you’re a maker about
-  to create a website for the first time or you’re a pro designer or coder making
+header: "<h2><strong>The freedom to create anything</strong></h2><h3>Silex is free
+  / libre because free minds need to have free tools.</h3><p>Whether you’re a maker
+  about to create a website for the first time or you’re a pro designer or coder making
   websites for customers, you will love Silex. You have two ways to start: open Silex
   and start with one of the a free website provided with Silex, or follow a tutorial
   before you play with the tool. You can always add advanced functionality to your
@@ -105,5 +105,7 @@ section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files onl
   work offline. And finally, Silex generates websites which are so simple that you
   can host them for free with GitHub Pages, or push directly to any web host.</p>"
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section5-cta: ''
+section6-cta: ''
 
 ---

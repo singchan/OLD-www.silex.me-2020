@@ -5,7 +5,7 @@ header: "<h2><strong>Powerful features for your website</strong></h2><h3>What Ma
   Silex Website Builder<br>the Best Choice for You?</h3>"
 section1: "<h2>Every day, people worldwide use Silex to take control of their online
   presence.</h2><h3>Create websites based on open standards. Own your tools and your
-  data! </h3><h3><br>Silex is free / libre because free minds need to have free tools.</h3>"
+  data!</h3>"
 section1-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 features:

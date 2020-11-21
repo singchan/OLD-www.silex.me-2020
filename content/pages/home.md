@@ -10,13 +10,13 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-01.svg"></p><h3>Open</h3><p>Open
+- html: <p><img src="/uploads/ico-step-01.svg"></p><h3>Open</h3><p>Open
     Silex website builder in a browser. Choose a free designer-made template you like.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p><h3>Customize</h3><p>Customize
+- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Customize</h3><p>Customize
     anything on your site. You can add videos, images, text &amp; more.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-03.svg"></p><h3>Publish</h3><p>When
+- html: <p><img src="/uploads/ico-step-03.svg"></p><h3>Publish</h3><p>When
     you’re ready, publish your website to easily share it with the world.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add
+- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add
     more as you grow, like transitions, animations, typography, loaders, and much
     more.</p>
 section1: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds
@@ -82,8 +82,7 @@ silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which s
 footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
   href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
-  title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://ceubri.github.io/silex-2020/#">Silex
-  SEO</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
+  title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
   Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
   title="Silex for developers">Developers</a></p>
 footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Silex

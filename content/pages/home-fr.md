@@ -45,14 +45,14 @@ hero-slider:
 - Une alternative à Elementor
 hero-cta: <p><a href="./commencer" title="Créez votre site">Commencer !</a></p>
 header-slideshow:
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-01.svg"></p><h3>Ouvrez</h3><p>Ouvrez
+- html: <p><img src="/uploads/ico-step-01.svg"></p><h3>Ouvrez</h3><p>Ouvrez
     Silex dans un navigateur web. Choisissez un modèle que vous aimez.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p><h3>Modifiez</h3><p>Modifiez
+- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Modifiez</h3><p>Modifiez
     le contenu de votre nouveau site. Vous avez le droit aux vidéos, images, text
     &amp; bien plus.</p>
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-03.svg"></p><h3>Publiez</h3><p>Quand
+- html: <p><img src="/uploads/ico-step-03.svg"></p><h3>Publiez</h3><p>Quand
     vous êtes satisfaits, publiez le site en ligne et partagez le largement !</p>
-- html: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p><h3>Evoluez</h3><p>Ajoutez
+- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Evoluez</h3><p>Ajoutez
     de la complexité dans votre design, comme des transitions, des animations, de
     la typography, et bien plus.</p>
 section2-cta-right: <p><a href="./commencer#en-ligne" title="">Commencer !</a></p>
@@ -108,8 +108,7 @@ silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which s
 footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
   href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
-  title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://ceubri.github.io/silex-2020/#">Silex
-  SEO</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
+  title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
   Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
   title="Silex for developers">Developers</a></p>
 footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Silex

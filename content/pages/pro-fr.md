@@ -1,6 +1,6 @@
 ---
 lang: en
-permalink: /fr/pro/
+permalink: "/fr/pro/"
 layout: professionals
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
@@ -59,5 +59,16 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   hosted by GitHub, powered by <a href="https://www.silex.me/" title="Silex free website
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
+header: ''
+section2: ''
+section2-cta: ''
+section3: ''
+section3-cta: ''
+section4: ''
+section4-cta: ''
+section5: ''
+section5-cta: ''
+section6: ''
+section6-cta: ''
 
 ---

@@ -203,4 +203,5 @@ fields:
   config:
     required: true
 pages:
+- content/pages/pro-fr.md
 - content/pages/pro.md

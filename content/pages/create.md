@@ -67,8 +67,18 @@ header: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds 
   before you play with the tool. You can always add advanced functionality to your
   website with code - HTML, CSS, Javascript. It’s time to get your professional website.</p>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section1: "<h2>How to create a free website website</h2><h3>builder in just <strong>3
-  easy steps</strong>:</h3>"
+section1: '<h2 class="heading2">Fast design &amp; prototyping</h2><p>When you change
+  something in Silex, you see the result immediately. Iterating on design is much
+  easier.</p><h2 class="heading2">FREE, But How FREE ?</h2><p>As a non-profit and
+  a community, we’re free to innovate without compromise. Silex is free / libre, without
+  hidden costs or licensing hassle.</p><p>You are welcome to contribute and to propose
+  services to the community.</p><h2 class="heading2">Own your data</h2><p>While editing
+  your site on silex.me your files are on your hard drive, available to Silex through
+  a cloud service you trust or own: FTP, Cozycloud, Owncloud, Dropbox, Github and
+  more to come.</p><h2 class="heading2">Host your website anywhere</h2><p>Your work
+  on silex.me will result in an HTML page stored on your computer. Hit "publish" to
+  optimize your site and host it anywhere.</p><h2>How to create a free website website</h2><h3>builder
+  in just <strong>3 easy steps</strong>:</h3>'
 section2: "<h2>Open</h2><p>Open Silex website builder in a browser,<br>choose a free
   designer-made template you like</p>"
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add videos,
@@ -105,5 +115,7 @@ section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files onl
   work offline. And finally, Silex generates websites which are so simple that you
   can host them for free with GitHub Pages, or push directly to any web host.</p>"
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section5-cta: ''
+section6-cta: ''
 
 ---

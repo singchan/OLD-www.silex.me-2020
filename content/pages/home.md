@@ -18,10 +18,10 @@ header-slideshow:
     ready, publish your website to easily share it with the world.</p>
 - html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add more as you
     grow, like transitions, animations, typography, loaders, and much more.</p>
-section1: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds
-  need free tools to make the world a better place</h3><p>Whether you’re a maker about
-  to create a website for the first time or you’re a pro designer or coder making
-  websites for customers, you will love Silex.</p>"
+section1: "<p>Whether you’re a maker about to create a website for the first time
+  or you’re a pro designer or coder making websites for customers, you will love Silex.</p><p></p><hr><p></p><h2><strong>The
+  freedom to create anything</strong></h2><h3>Free minds need free tools to make the
+  world a better place</h3><p></p>"
 section1-cta-right: <p><a href="./get-started" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>
 section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use

@@ -187,3 +187,5 @@ fields:
   default: community
   config:
     required: true
+pages:
+- content/pages/community.md

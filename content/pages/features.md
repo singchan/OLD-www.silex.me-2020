@@ -8,6 +8,13 @@ section1: "<h2>Still not convinced? Try our open source website builder now.</h2
 section1-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 features:
+- feature: ''
+- feature: <h3>Host your website anywhere</h3><p>Hit "publish" when you are ready
+    to get your site optimized and hosted for free on Github pages, Netlify or literally
+    anywhere.</p>
+- feature: "<h3>Own your data</h3><p>While editing your site on silex.me your files
+    are on your hard drive, available to Silex through a cloud service you trust or
+    own: FTP, Cozycloud, Owncloud, Dropbox, Github and more to come.</p>"
 - feature: "<h3>Industry-Leading SEO</h3><p>Follow your own personalized SEO plan
     to get your website found on Google.</p>"
 - feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your

@@ -38,9 +38,9 @@ features:
 - feature: "<h3>Learn the standards</h3><p>Only common settings are available in the
     visual editor. When you need more, Silex helps you write CSS without leaving the
     editor and with immediate feedback.</p>"
-- feature: "<h3>Do not lock yourself in</h3><p>We did not create concepts or jargon,
-    we use those from the open web standards. What you learn here will be useful to
-    you, everywhere.</p>"
+- feature: "<h3><strong>Do not</strong> lock <br>yourself in</h3><p>We did not create
+    concepts or jargon, we use those from the open web standards. What you learn here
+    will be useful to you, everywhere.</p>"
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
 section7-cta-right: "<p></p>"

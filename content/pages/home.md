@@ -20,7 +20,7 @@ header-slideshow:
     grow, like transitions, animations, typography, loaders, and much more.</p>
 section1: "<h3>Whether you’re a <strong>maker</strong> about to create a website for
   the first time<br>or you’re a pro <strong>designer </strong>or <strong>coder</strong>
-  making websites for customers,<br>you will love Silex.</h3><p></p><p></p><p><strong>✦</strong></p><p></p><p></p><h2><strong>The
+  making websites for customers,<br>you will love Silex.</h3><br/><br/><p><strong>✦</strong></p><br/><br/><h2><strong>The
   freedom to create anything</strong></h2><h3>Free minds need free tools to make the
   world a better place</h3><p></p>"
 section1-cta-right: <p><a href="./get-started" title="Get started with Silex website
@@ -38,7 +38,7 @@ section3-cta-right: <p><a href="https://github.com/silexlabs/silex-desktop/relea
 section4: "<h2><strong>Deploy to your Server</strong></h2><h3>Own your tools !</h3><p>Use
   the 1 click install, the docker image or just any server to create an instance of
   Silex under your own name, for your users or just for hacking</p>"
-section4-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex"
+section4-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-to-Host-An-Instance-of-Silex#host-an-instance-of-silex-on-a-web-server"
   title="How to host an instance of Silex">Documentation</a></p>
 section4-cta-right: <p><a href="https://heroku.com/deploy?template=https://github.com/silexlabs/Silex/tree/master"
   title="1 click install to your server">1 click install on Heroku</a></p>
@@ -48,7 +48,7 @@ section5: "<h2><strong>Use Silex in your project</strong></h2><h3>Hack Silex, ge
   it</p>"
 section5-cta-right: <p><a href="https://www.npmjs.com/package/silex-website-builder"
   title="Silex package on npm">Silex on npm</a></p>
-section6: "<h2><strong>Powerful features for your website</strong></h2><h3>Many useful
+section6: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many useful
   and powerful functionalities</h3>"
 section6-cta-right: <p><a href="./get-started" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>

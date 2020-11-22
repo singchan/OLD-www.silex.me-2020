@@ -19,7 +19,7 @@ header-slideshow:
 - html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add more as you
     grow, like transitions, animations, typography, loaders, and much more.</p>
 section1: "<h3>Whether you’re a <strong>maker</strong> about to create a website for
-  the first time or you’re a pro <strong>designer<br></strong>or <strong>coder</strong>
+  the first time<br>or you’re a pro <strong>designer </strong>or <strong>coder</strong>
   making websites for customers, you will love Silex.</h3><p></p><p><strong>✦</strong></p><p></p><h2><strong>The
   freedom to create anything</strong></h2><h3>Free minds need free tools to make the
   world a better place</h3><p></p>"

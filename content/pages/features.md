@@ -15,7 +15,7 @@ features:
 - feature: <h3>Publish you website</h3><p>Hit "publish" when you are ready and <a
     href="https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website"
     title="Publish your website">get your site hosted for free</a> on Github pages,
-    Netlify or literally anywhere.</p>
+    Netlify or literally anywhere you want.</p>
 - feature: "<h3>Live web creation</h3><p>When you change something in Silex, you see
     the result immediately. Iterating on design is much easier.</p>"
 - feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your

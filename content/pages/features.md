@@ -8,7 +8,10 @@ section1: "<h2>Still not convinced? Try our open source website builder now.</h2
 section1-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 features:
-- feature: ''
+- feature: <h3>Documentation</h3><p><a href="https://github.com/silexlabs/Silex/wiki/"
+    title="Silex documentation website">The wiki is here to guide you</a>, it is editable
+    by everyone and you can always <a href="https://github.com/silexlabs/Silex/issues"
+    title="Silex website builder forums">ask for help in the forums</a>.</p>
 - feature: <h3>Host your website anywhere</h3><p>Hit "publish" when you are ready
     to get your site optimized and hosted for free on Github pages, Netlify or literally
     anywhere.</p>

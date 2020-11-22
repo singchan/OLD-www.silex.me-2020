@@ -12,10 +12,10 @@ features:
     mobile-friendly version of your website.</p>"
 - feature: "<h3>Industry-Leading SEO</h3><p>Follow your own personalized SEO plan
     to get your website found on Google.</p>"
-- feature: <h3>Publish you website in 1 click</h3><p>Hit "publish" when you are ready
-    and <a href="https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website"
-    title="Publish your website">get your site optimized and hosted for free</a> on
-    Github pages, Netlify or literally anywhere.</p>
+- feature: <h3>Publish you website<br>in 1 click</h3><p>Hit "publish" when you are
+    ready and <a href="https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website"
+    title="Publish your website">get your site hosted for free</a> on Github pages,
+    Netlify or literally anywhere.</p>
 - feature: "<h3>Live web creation</h3><p>When you change something in Silex, you see
     the result immediately. Iterating on design is much easier.</p>"
 - feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your

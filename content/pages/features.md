@@ -13,8 +13,10 @@ features:
     by everyone and you can always <a href="https://github.com/silexlabs/Silex/issues"
     title="Silex website builder forums">ask for help in the forums</a>.</p>
 - feature: <h3>Host your website anywhere</h3><p>Hit "publish" when you are ready
-    to get your site optimized and hosted for free on Github pages, Netlify or literally
-    anywhere.</p>
+    and <a href="https://github.com/silexlabs/Silex/wiki/Publishing-and-Releasing-Your-Website"
+    title="Publish your website">get your site optimized and hosted for free</a> on
+    Github pages, Netlify or literally anywhere. Silex will push your site for you
+    every time you need to update it.</p>
 - feature: "<h3>Own your data</h3><p>While editing your site on silex.me your files
     are on your hard drive, available to Silex through a cloud service you trust or
     own: FTP, Cozycloud, Owncloud, Dropbox, Github and more to come.</p>"

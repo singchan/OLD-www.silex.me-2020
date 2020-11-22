@@ -26,10 +26,10 @@ features:
 - feature: "<h3>Learn the standards</h3><p>Only common settings are available in the
     visual editor. When you need more, Silex helps you write CSS without leaving the
     editor and with immediate feedback.</p>"
-- feature: "<h3>Live web creation</h3><p>When you change something in Silex, you see
-    the result immediately. Iterating on design is much easier.</p>"
 - feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your
     favorite services such as YouTube, SoundCloud, Twitter, etc.</p>"
+- feature: "<h3>Live web creation</h3><p>When you change something in Silex, you see
+    the result immediately. Iterating on design is much easier.</p>"
 - feature: <h3>Documentation</h3><p><a href="https://github.com/silexlabs/Silex/wiki/"
     title="Silex documentation website">The wiki is here to guide you</a>, it is editable
     by everyone and you can always <a href="https://github.com/silexlabs/Silex/issues"

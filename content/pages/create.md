@@ -63,7 +63,7 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   headless CMS</a></p></li></ul>
 permalink: "/create/"
 header: "<h2>Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>"
-hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+hero-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>Why you should choose Silex</h2><h3>to showcase products or a project?</h3>"
 section2: "<h2>Creative process</h2><p>Design a website as you would draw it, <strong>iterate
   over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
@@ -121,6 +121,6 @@ items:
 - text: <h2>The static nature of your<br>drag and drop editor</h2><p>Silex uses only
     file, so it has <br>no databases, no template language, no plugins.<br>This means
     <strong>no security issues</strong>, <strong>no "important" updates</strong>.</p>
-  cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+  cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 
 ---

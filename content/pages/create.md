@@ -2,7 +2,8 @@
 lang: en
 layout: create
 title: Design professional websites | Silex website builder
-description: Design a website as you would draw it, iterate over your design, embrace the live web creation process.
+description: Design a website as you would draw it, iterate over your design, embrace
+  the live web creation process.
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
 section7-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
@@ -61,8 +62,7 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
 permalink: "/create/"
-header: "<h2><strong>Your Design, Your Way!</strong></h2><h3>Free is not just about
-  price. #Freedom.</h3>"
+header: "<h2>Your Design, Your Way!</h2><h3>Free is not just about price. #Freedom.</h3>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<p>Design a website as you would draw it, <strong>iterate over your design</strong>,<br>embrace
   the <strong>live web creation</strong> process</p><p>Silex is <strong>forever free</strong>,

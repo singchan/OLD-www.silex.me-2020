@@ -22,12 +22,11 @@ header-slideshow:
     ready, publish your website to easily share it with the world.</p>
 - html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add more as you
     grow, like transitions, animations, typography, loaders, and much more.</p>
-section1: <h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
-  about to create your project's website<br>or <a href="/create/" title="Silex, nocode
+section1: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
+  about to create your project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you’re a designer</a> making websites for customers,<br>you
-  will love Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>The
-  freedom to create anything</strong></h2><h3>Free minds need free tools to make the
-  world a better place</h3><p></p>
+  will love Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
+  Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
 section1-cta-right: <p><a href="./get-started" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>
 section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use

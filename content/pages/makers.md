@@ -6,13 +6,12 @@ description: Produce a website for free with this Low-code / no-code tool for Ma
 lang: en
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
-section7-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section7-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
-section7-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
-  FEATURES</strong></a></p>
+section7-cta-left: <p><a href="/features/" title="Silex features"><strong>MORE FEATURES</strong></a></p>
 section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
   because free minds need to have free tools</p>"
-section8-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section8-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
 section8-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
   FEATURES</strong></a></p>
@@ -62,7 +61,7 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
 header: "<h2>Take full control over your web presence</h2><h3>with the DIY Spirit</h3>"
-hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+hero-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>From a very Fast Landing Page to an Efficient Inbound Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
 section2: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open
@@ -98,5 +97,6 @@ section5-image: <p><img src="/uploads/01-diy_256.gif"></p>
 section6-image: ''
 section9-image: ''
 section10-image: ''
+items: []
 
 ---

@@ -2,8 +2,8 @@
 layout: home
 hero-slider:
 - A truly free website builder
+- A tool to learn as you build
 - A Wix for Makers
-- An Elementor for static sites
 - A hackable Unbounce
 - An Adobe muse successor
 hero-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get

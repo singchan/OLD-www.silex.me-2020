@@ -117,7 +117,7 @@ items:
     immediate feedback. <br>Add any front end feature. Plug into any third party API.<br>If
     a feature is missing, we will help you learn how to<br>use HTML, CSS, Javascript
     from within Silex.</p>"
-  cta: "<p></p>"
+  cta: ""
 - text: '<h2>The static nature of your<br>drag and drop editor</h2><p>Silex is extremely
     simple yet powerful: <br>no databases, no template language, no plugins.<br>This
     means no security issues, no "important" updates.</p>'

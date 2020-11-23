@@ -68,8 +68,8 @@ header: "<h2><strong>Create anything, your way!</strong></h2><h3>Free is not jus
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>How to create a free website website</h2><h3>builder in just <strong>3
   easy steps</strong>:</h3>"
-section2: "<h2>Open</h2><p>Open Silex in a browser, or install the app on your computer,<br>choose
-  a free template or start with a blank page</p>"
+section2: "<h2>Getting started</h2><p>Open Silex in a browser, or install the app
+  on your computer,<br>choose a free template or start with a blank page</p>"
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
   images, videos &amp; more...</p>"
 section4: "<h2>Publish!</h2><p>When you are ready, publish your website <br>Silex

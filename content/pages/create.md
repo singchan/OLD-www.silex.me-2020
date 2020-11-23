@@ -71,21 +71,23 @@ section2: "<h2>Open</h2><p>Open Silex in a browser, or install the app on your c
   a free template or start with a blank page</p>"
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
   images, videos &amp; more...</p>"
-section4: "<h2>Publish!</h2><p>When you are ready,<br>publish your website in just
-  a few clicks, <br>as often as you want.</p>"
+section4: "<h2>Publish!</h2><p>When you are ready, publish your website <br>Silex
+  integrates with professional free hosting providers<br>with your own domain name
+  and without ads.</p>"
 section5: "<h2>Total Design Freedom, DIY!</h2><p>With Silex, you can create any custom
-  design, pixel perfect.<br>If a feature is missing, we will help you learn how to<br>use
-  HTML and CSS from within Silex.</p>"
-section6: "<h2>Silex Publication,<br>Get Online, be Lightning Fast!</h2><p>Publish
-  your website to any hosting.<br>Silex integrates with professional free hosting
-  providers<br>with your own domain name and without ads.</p>"
+  design, pixel perfect.<br>This is due to the way elements are absolutely positioned.<br>Thanks
+  to the mobile editor this applies to the mobile version too.</p>"
+section6: <h2>Be Online, Be Fast!</h2><p>Due to its static nature, your website will
+  be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
+  title="Google PSI test">Page Speed Insight</a> score for Silex websites is &gt;
+  90%<br>on desktop and on mobile.</p>
 section9: "<h2>Hacking Without Limits</h2><p>You can code from within the editor,
   with immediate feedback. <br>Add any front end feature. Plug into any third party
   API. <br>Change your website behavior with JQuery, HTML, CSS.</p>"
 section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section10: "<h2>The beauty of a static<br>drag and drop editor</h2><p>Due to its static
-  nature and the way elements are absolutely positioned, Silex is extremely simple
-  yet powerful: no databases, no security issues, no limitations for the design.</p>"
+section10: "<h2>The beauty of a<br>Drag and Drop Editor</h2><p>Silex is extremely
+  simple yet powerful, </p><p>: no databases, no security issues, no limitations for
+  the design.</p>"
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section5-cta: "<p></p>"
 section6-cta: ''

@@ -79,12 +79,9 @@ section5: "<h2>Total Design Freedom, DIY!</h2><p>With Silex, you can create any 
 section6: "<h2>Silex Publication,<br>Get Online, be Lightning Fast!</h2><p>Publish
   your website to any hosting.<br>Silex integrates with professional free hosting
   providers<br>with your own domain name and without ads.</p>"
-section9: "<h2>Hacking Without Limits</h2><h3>Open to your code at every level</h3><p>You
-  can code from within the editor, with immediate feedback and the deployment capabilities
-  of Silex. Add any front end feature. Plug into any third party API, add transitions,
-  animations, typography, loaders, prefetch the pages, add custom forms and change
-  site behavior with JQuery or just HTML, CSS and Javascript. With your hackable website
-  builder, you can create anything you want.</p>"
+section9: "<h2>Hacking Without Limits</h2><p>You can code from within the editor,
+  with immediate feedback. <br>Add any front end feature. Plug into any third party
+  API. <br>Change your website behavior with JQuery, HTML, CSS.</p>"
 section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files only,
   your files where you want it to be</h3><p>Due to its static nature and the way elements

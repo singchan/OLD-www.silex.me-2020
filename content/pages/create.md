@@ -64,23 +64,17 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
 permalink: "/create/"
 header: "<h2>Your Design, Your Way!</h2><h3>Free is not just about price. #Freedom.</h3>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section1: "<p>Design a website as you would draw it, <strong>iterate over your design</strong>,<br>embrace
-  the <strong>live web creation</strong> process</p><p>Silex is <strong>forever free</strong>,
-  integrates with<strong> other tools</strong>, endless <strong>customization</strong>,<br><strong>♥</strong>
-  Open Source Free Software</p><p>As a <strong>nocode tool</strong>, Silex is <strong>maker
+section1: "<h2>Why should you choose Silex </h2><h3>to showcase products or a project?</h3>"
+section2: "<h2>Creative process</h2><p>Design a website as you would draw it, <strong>iterate
+  over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
+section3: "<h2>♥ Open Source Free Software</h2><p>Silex is <strong>forever free</strong>,
+  integrates with<strong> other tools</strong>, has endless <strong>customization</strong>.</p>"
+section4: "<h2>DIY Spirit</h2><p>As a <strong>nocode tool</strong>, Silex is <strong>maker
   friendly</strong>, with a <strong>loving community</strong></p>"
-section2: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open
-  Silex in a browser</a>, or install the app on your computer,<br>choose a free template
-  or start with a blank page</p>
-section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
-  images, videos &amp; more...</p>"
-section4: "<h2>Publish!</h2><p>When you are ready, publish your website <br>Silex
-  integrates with professional free hosting providers<br>with your own domain name
-  and without ads.</p>"
 section5: "<h2>Total Design Freedom, DIY!</h2><p>You can create any custom design,
   or clone one, pixel perfect.<br>Elements are absolutely positioned to make it feel
   natural.<br>Use the mobile editor to design the mobile version too.</p>"
-section6: <h2>Be Online, Be Fast!</h2><p>Due to its static nature, your website will
+section6: <h2>Beyond nice looking</h2><p>Due to its static nature, your website will
   be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
   title="Google PSI test">Page Speed Insight</a> score for Silex websites is &gt;
   90%<br>on desktop and on mobile.</p>

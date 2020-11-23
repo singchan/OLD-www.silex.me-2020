@@ -71,7 +71,7 @@ section2: "<h2>Open</h2><p>Open Silex in a browser, or install the app on your c
   a free template or start with a blank page</p>"
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
   images, videos &amp; more...</p>"
-section4: "<h2>Publish!</h2><p>When you are ready,<br>publish your website in just
+section4: "<h2>Publish!</h2><p>When you are ready,</p><p>publish your website in just
   a few clicks, </p><p>as often as you want.</p>"
 section5: "<h2>Total Design Freedom, DIY!</h2><p>With Silex, you can create any custom
   design, pixel perfect. </p><p>If a feature is missing, </p><p>we will help you learn

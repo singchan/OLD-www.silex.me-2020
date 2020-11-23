@@ -70,5 +70,8 @@ section5: ''
 section5-cta: ''
 section6: ''
 section6-cta: ''
+title: Freelancers, Web Agencies, Hosting Companies | Silex Website Builder
+description: Fully customizable website creation tool for the modern age, with a vision
+  and a great business model.
 
 ---

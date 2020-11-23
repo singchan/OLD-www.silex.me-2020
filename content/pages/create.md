@@ -6,16 +6,14 @@ description: Design a website as you would draw it, iterate over your design, em
   the live web creation process.
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
-section7-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section7-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
-section7-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
-  FEATURES</strong></a></p>
+section7-cta-left: <p><a href="/features/" title="Silex features"><strong>MORE FEATURES</strong></a></p>
 section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
   because free minds need to have free tools</p>"
-section8-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section8-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
-section8-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
-  FEATURES</strong></a></p>
+section8-cta-left: <p><a href="/features/" title="Silex features"><strong>MORE FEATURES</strong></a></p>
 community: "<h2><strong>Follow us, join the community !</strong></h2><h3>Silex is
   free and open source because free minds need to have free tools</h3>"
 community-meetup: <p><a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Join

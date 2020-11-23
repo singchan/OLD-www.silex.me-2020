@@ -20,12 +20,12 @@ header-slideshow:
     with a blank page</p>
 - html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can add
     text, images, videos &amp; more...</p>
-- html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
-    are absolutely positioned to make it feel natural.<br>Use the mobile editor to
-    design the mobile version too.</p>
 - html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you are
     ready, publish your website<br>Silex integrates with professional free hosting
     providers<br>with your own domain name and without ads.</p>
+- html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
+    are absolutely positioned to make it feel natural.<br>Use the mobile editor to
+    design the mobile version too.</p>
 section1: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
   about to create your project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you’re a designer</a> making websites for customers,<br>you

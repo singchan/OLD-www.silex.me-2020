@@ -5,7 +5,7 @@ header: "<h2><strong>Powerful features for your website</strong></h2><h3>What ma
   Silex website builder<br>the best choice for you?</h3>"
 section1: "<h2>Try Silex open source website builder now</h2><h3>Every day, people
   worldwide use Silex to take control of their online presence.</h3>"
-section1-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
+section1-cta: <p><a href="/get-started/" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 features:
 - feature: "<h3>Mobile Friendly</h3><p>Look amazing on every screen with a customizable
@@ -57,8 +57,8 @@ footer-middle: ''
 footer-right: ''
 footer: ''
 permalink: "/features/"
-header-cta: <p><a href="Scroll to the feature list" title="#features"><strong>List
-  of features</strong></a></p>
+header-cta: <p><a href="#list" title="Scroll to the feature list"><strong>List of
+  features</strong></a></p>
 title: Powerful Features For Your Website | Silex Website Builder
 description: List of features of Silex open source website builder
 

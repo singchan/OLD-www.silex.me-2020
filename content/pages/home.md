@@ -1,9 +1,11 @@
 ---
 layout: home
 hero-slider:
-- 100% free website builder
-- Faster than wordpress website
-- A free Elementor alternative
+- A truly free website builder
+- A Wix for Makers
+- An Elementor for static sites
+- A hackable Unbounce
+- An Adobe muse successor
 hero-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 hero-above: 'Are you looking for :'
@@ -48,8 +50,8 @@ section5: "<h2><strong>Use Silex in your project</strong></h2><h3>Hack Silex, ge
   it</p>"
 section5-cta-right: <p><a href="https://www.npmjs.com/package/silex-website-builder"
   title="Silex package on npm">Silex on npm</a></p>
-section6: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many useful
-  and powerful functionalities</h3>"
+section6: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many
+  useful and powerful functionalities</h3>"
 section6-cta-right: <p><a href="./get-started" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>
 section6-cta-left: <p><a href="./features" title="Silex features">More features</a></p>

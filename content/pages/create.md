@@ -83,11 +83,12 @@ section6: <h2>Be Online, Be Fast!</h2><p>Due to its static nature, your website 
   90%<br>on desktop and on mobile.</p>
 section9: "<h2>Hacking Without Limits</h2><p>You can code from within the editor,
   with immediate feedback. <br>Add any front end feature. Plug into any third party
-  API. <br>Change your website behavior with JQuery, HTML, CSS.</p>"
+  API.<br>If a feature is missing, we will help you learn how to<br>use HTML, CSS,
+  Javascript from within Silex.</p>"
 section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section10: "<h2>The beauty of a<br>Drag and Drop Editor</h2><p>Silex is extremely
-  simple yet powerful, </p><p>: no databases, no security issues, no limitations for
-  the design.</p>"
+section10: '<h2>The static nature of your<br>Drag and Drop Editor</h2><p>Silex is
+  extremely simple yet powerful: <br>no databases, no template language, no plugins.<br>This
+  means no security issues, no "important" updates.</p>'
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section5-cta: "<p></p>"
 section6-cta: ''

@@ -66,8 +66,8 @@ hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started
 section1: "<h2>From a very Fast Landing Page to an Efficient Inbound Marketing Website</h2><h3>Step
   by step process to create a free website with Silex</h3>"
 section2: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open
-  Silex in a browser</a>, or install the app on your computer,<br>choose a free template
-  or start with a blank page</p>
+  Silex in a browser</a>, or <a href="" title="">install the app on your computer</a>,<br>choose
+  a free template or start with a blank page</p>
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
   images, videos &amp; more...</p>"
 section4: "<h2>Publish!</h2><p>When you are ready, publish your website <br>Silex

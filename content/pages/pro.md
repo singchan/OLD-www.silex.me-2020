@@ -59,7 +59,8 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   hosted by GitHub, powered by <a href="https://www.silex.me/" title="Silex free website
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
-header: ''
+header: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
+  Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
 section2: ''
 section2-cta: ''
 section3: ''
@@ -71,7 +72,7 @@ section5-cta: ''
 section6: ''
 section6-cta: ''
 title: Freelancers, Web Agencies, Hosting Companies | Silex Website Builder
-description: Fully customizable website creation tool for the modern age, with a vision
-  and a great business model.
+description: Fully customizable website creation tool, with a vision and a great business
+  model.
 
 ---

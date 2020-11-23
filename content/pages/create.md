@@ -66,7 +66,7 @@ header: "<h2><strong>Create anything, your way!</strong></h2><h3>Free is not jus
   the <strong>live web creation</strong> process</p><p>3. As a <strong>nocode tool</strong>,
   Silex is <strong>maker friendly</strong>, with a <strong>loving community</strong>.</p>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section1: "<h2>How to Create a Free Website</h2><h3>in just <strong>3 easy steps</strong>:</h3>"
+section1: "<h2>Create a Free Website With Silex</h2>"
 section2: "<h2>Getting started</h2><p>Open Silex in a browser, or install the app
   on your computer,<br>choose a free template or start with a blank page</p>"
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,

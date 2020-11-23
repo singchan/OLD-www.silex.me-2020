@@ -2,6 +2,14 @@
 id: community
 label: Community
 fields:
+  - type: text
+    name: title
+    label: Title
+    default: ''
+  - type: text
+    name: description
+    label: Description
+    default: ''
   - type: textarea
     name: header
     label: Header

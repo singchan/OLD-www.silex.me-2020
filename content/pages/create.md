@@ -63,8 +63,9 @@ header: "<h2><strong>Your Design, Your Way!</strong></h2><h3>Free is not just ab
   price. #Freedom.</h3><hr><p>1. Design a website as you would draw it, <strong>iterate
   over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p><p>2.
   Silex is <strong>forever free</strong>, integrates with<strong> other tools</strong>,
-  endless <strong>customization</strong></p><p>3. As a <strong>nocode tool</strong>,
-  Silex is <strong>maker friendly</strong>, with a <strong>loving community</strong></p>"
+  endless <strong>customization</strong>,<br>&lt;3 Open Source Free Software</p><p>3.
+  As a <strong>nocode tool</strong>, Silex is <strong>maker friendly</strong>, with
+  a <strong>loving community</strong></p>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>Create a Free Website With Silex</h2>"
 section2: "<h2>Getting started</h2><p>Open Silex in a browser, or install the app

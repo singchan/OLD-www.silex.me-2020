@@ -67,24 +67,17 @@ header: "<h2><strong>Create anything, your way!</strong></h2><h3>Free is not jus
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>How to create a free website website</h2><h3>builder in just <strong>3
   easy steps</strong>:</h3>"
-section2: "<h2>Open</h2><p>Open Silex website builder in a browser,<br>choose a free
-  designer-made template you like</p>"
-section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add videos,
-  images, text &amp; more...</p>"
-section4: "<h2>Publish!</h2><p>When you’re ready,<br>publish your website to easily
-  share it with the world.</p>"
-section5: "<h2>Total Design Freedom, DIY!</h2><h3>You can customize anything you want</h3><p>Start
-  with a blank slate or choose from the designer-made templates, released as Creative
-  Commons and included in Silex. With the #1 open source drag and drop website builder,
-  you can customize anything you want. Create beautiful websites with texts, images,
-  videos, slideshows, and more—all without worrying about code. With the Silex, you
-  can design the most custom websites, all on your own.</p>"
-section6: "<h2>Silex Publication,<br>Get Online Fast!</h2><h3>Lightning fast</h3><p>You’ll
-  love how fast you can get online—and look amazing! Silex publication feature will
-  optimize your creation for performance and SEO. And then you choose where you want
-  to host your website, for free on GitHub pages–even with your domain name and without
-  ads, or with and hosting company thanks to the FTP deployment options. When you’re
-  ready, go live in a click.</p>"
+section2: "<h2>Open</h2><p>Open Silex in a browser, or install the app on your computer,<br>choose
+  a free template or start with a blank page</p>"
+section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
+  images, videos &amp; more...</p>"
+section4: "<h2>Publish!</h2><p>When you are ready,<br>publish your website in just
+  a few clicks, as often as you want.</p>"
+section5: "<h2>Total Design Freedom, DIY!</h2><p>With the Silex, you can create any
+  custom design, pixel perfect.</p>"
+section6: "<h2>Silex Publication,<br>Get Online Fast!</h2><h3>Lightning fast</h3><p>Publish
+  your website to any hosting - we provide with free options even with your own domain
+  name and without ads.</p>"
 section9: "<h2>Hacking Without Limits</h2><h3>Open to your code at every level</h3><p>You
   can code from within the editor, with immediate feedback and the deployment capabilities
   of Silex. Add any front end feature. Plug into any third party API, add transitions,
@@ -103,7 +96,7 @@ section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files onl
   work offline. And finally, Silex generates websites which are so simple that you
   can host them for free with GitHub Pages, or push directly to any web host.</p>"
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section5-cta: ''
+section5-cta: "<p>test</p>"
 section6-cta: ''
 
 ---

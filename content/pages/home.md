@@ -140,7 +140,8 @@ section1-cta-left: <p><a href="./create" title="Learn more about Silex and freed
 section5-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
   title="Add Silex To Your Node.js Project">Documentation</a></p>
 lang: en
-title: Silex Website Builder | Free, Open Source and Cool
-description: ''
+title: Silex Website Builder
+description: Create a fast **and** beautiful website with Silex, free open source
+  web design tool for makers.
 
 ---

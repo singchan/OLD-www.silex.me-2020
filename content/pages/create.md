@@ -67,23 +67,23 @@ hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started
 section1: "<h2>Why should you choose Silex </h2><h3>to showcase products or a project?</h3>"
 section2: "<h2>Creative process</h2><p>Design a website as you would draw it, <strong>iterate
   over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
-section3: "<h2>♥ Open Source Free Software</h2><p>Silex is <strong>forever free</strong>,
+section3: "<h2>♥ Open source free software</h2><p>Silex is <strong>forever free</strong>,
   integrates with<strong> other tools</strong>, has endless <strong>customization</strong>.</p>"
-section4: "<h2>DIY Spirit</h2><p>As a <strong>nocode tool</strong>, Silex is <strong>maker
+section4: "<h2>DIY spirit</h2><p>As a <strong>nocode tool</strong>, Silex is <strong>maker
   friendly</strong>, with a <strong>loving community</strong></p>"
-section5: "<h2>Total Design Freedom, DIY!</h2><p>You can create any custom design,
+section5: "<h2>Total design freedom, DIY!</h2><p>You can create any custom design,
   or clone one, pixel perfect.<br>Elements are absolutely positioned to make it feel
   natural.<br>Use the mobile editor to design the mobile version too.</p>"
 section6: <h2>Beyond nice looking</h2><p>Due to its static nature, your website will
   be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
   title="Google PSI test">Page Speed Insight</a> score for Silex websites is &gt;
   90%<br>on desktop and on mobile.</p>
-section9: "<h2>Hacking Without Limits</h2><p>You can code from within the editor,
+section9: "<h2>Hacking without limits</h2><p>You can code from within the editor,
   with immediate feedback. <br>Add any front end feature. Plug into any third party
   API.<br>If a feature is missing, we will help you learn how to<br>use HTML, CSS,
   Javascript from within Silex.</p>"
 section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section10: '<h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is
+section10: '<h2>The static nature of your<br>drag and drop editor</h2><p>Silex is
   extremely simple yet powerful: <br>no databases, no template language, no plugins.<br>This
   means no security issues, no "important" updates.</p>'
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>

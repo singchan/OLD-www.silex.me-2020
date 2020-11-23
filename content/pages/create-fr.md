@@ -3,13 +3,13 @@ lang: fr
 layout: create
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
-section7-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section7-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
 section7-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
   FEATURES</strong></a></p>
 section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
   because free minds need to have free tools</p>"
-section8-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section8-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
 section8-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
   FEATURES</strong></a></p>
@@ -25,8 +25,8 @@ community-forums: <p><a href="https://github.com/silexlabs/Silex/issues" title="
   forums"><strong>Forums</strong></a></p><p><em>Real advice from real people</em></p>
 silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which started
   it all"><strong>SILEXLABS</strong></a></p><p>The non profit where it all started</p>
-footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
-  href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
+footer-left: <p>PRODUCTS</p><p><a href="/features/" title="Features">Features</a></p><p><a
+  href="/create/" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
   title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://ceubri.github.io/silex-2020/#">Silex
   SEO</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
@@ -38,7 +38,7 @@ footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Si
   title="Contribute to Silex">Contribute</a></p><p><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
   title="Silex has dual license">Lisense (MPL or </a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE"
   title="GPL Silex License">GPL</a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
-  title="Silex has dual license">)</a></p><p><a href="./community#partners" title="Silex
+  title="Silex has dual license">)</a></p><p><a href="/community/#partners" title="Silex
   partners">Partners</a></p><p><a href="https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&amp;id=2e1b03a5f0"
   title="Mailing list">Updates &amp; Releases</a></p><p><a href="mailto:b2b@silex.me"
   title="Contact Silex founder">Contact Us</a></p>
@@ -66,7 +66,7 @@ header: "<h2><strong>The freedom to create anything</strong></h2><h3>Free minds 
   and start with one of the a free website provided with Silex, or follow a tutorial
   before you play with the tool. You can always add advanced functionality to your
   website with code - HTML, CSS, Javascript. It’s time to get your professional website.</p>"
-hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+hero-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>How to create a free website website</h2><h3>builder in just <strong>3
   easy steps</strong>:</h3>"
 section2: "<h2>Open</h2><p>Open Silex website builder in a browser,<br>choose a free
@@ -93,7 +93,7 @@ section9: "<h2>Hacking Without Limits</h2><h3>Open to your code at every level</
   animations, typography, loaders, prefetch the pages, add custom forms and change
   site behavior with JQuery or just HTML, CSS and Javascript. With your hackable website
   builder, you can create anything you want.</p>"
-section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section9-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files only,
   your files where you want it to be</h3><p>Due to its static nature and the way elements
   are absolutely positioned, Silex is extremely simple yet powerful: no databases,
@@ -104,6 +104,6 @@ section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files onl
   are available online so you can work from anywhere, or use the desktop version to
   work offline. And finally, Silex generates websites which are so simple that you
   can host them for free with GitHub Pages, or push directly to any web host.</p>"
-section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section10-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 
 ---

@@ -7,9 +7,9 @@ section1: "<h2><strong>Créez ce que vous imaginez</strong></h2><h3>Les esprits 
   avec Silex, ou suivez un tutoriel avant de jouer avec l'outil. Vous pouvez toujours
   ajouter des fonctionnalités avancées à votre site Web avec du code - HTML, CSS,
   Javascript. Il est temps d’obtenir votre site Web professionnel.</p>"
-section1-cta-right: <p><a href="./commencer" title="Utilisez Silex editeur de site
+section1-cta-right: <p><a href="/commencer/" title="Utilisez Silex editeur de site
   gratuitement"><strong>Commencer !</strong></a></p>
-section1-cta-left: <p><a href="./create" title="Learn more about Silex and freedom"><strong>More
+section1-cta-left: <p><a href="/create/" title="Learn more about Silex and freedom"><strong>More
   about freedom</strong></a></p>
 section2: "<h2><strong>Utilisez Silex en ligne</strong></h2><h3>Connectez vous avec
   un compte existant</h3><p>Utilisez l'instance Silex Labs fournie gratuitement, sans
@@ -43,7 +43,7 @@ hero-slider:
 - Editeur de site 100% gratuit
 - Plus rapide que WordPress
 - Une alternative à Elementor
-hero-cta: <p><a href="./commencer" title="Créez votre site">Commencer !</a></p>
+hero-cta: <p><a href="/commencer/" title="Créez votre site">Commencer !</a></p>
 header-slideshow:
 - html: <p><img src="/uploads/ico-step-01.svg"></p><h3>Ouvrez</h3><p>Ouvrez
     Silex dans un navigateur web. Choisissez un modèle que vous aimez.</p>
@@ -55,12 +55,12 @@ header-slideshow:
 - html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Evoluez</h3><p>Ajoutez
     de la complexité dans votre design, comme des transitions, des animations, de
     la typography, et bien plus.</p>
-section2-cta-right: <p><a href="./commencer#en-ligne" title="">Commencer !</a></p>
+section2-cta-right: <p><a href="/commencer#en-ligne/" title="">Commencer !</a></p>
 section6: "<h2><strong>Des fonctionnalités puissantes</strong></h2><h3>Tout ce dont
   vous avez besoin pour créer un site</h3>"
-section6-cta-right: <p><a href="./commencer" title="Utilisez Silex gratuitement"><strong>Commencer
+section6-cta-right: <p><a href="/commencer/" title="Utilisez Silex gratuitement"><strong>Commencer
   !</strong></a></p>
-section6-cta-left: <p><a href="./fonctionnalites" title="Silex fonctionnalités">Fonctionnalités</a></p>
+section6-cta-left: <p><a href="/fonctionnalites/" title="Silex fonctionnalités">Fonctionnalités</a></p>
 features:
 - feature: "<h3>SEO de qualité professionelle</h3><p>Pas de compromis sur votre plan de taggage, vous appliquez votre stratégie pour que votre site soit bien positionné dans Google</p>"
 - feature: "<h3>External dynamic content</h3><p>Copy paste the embed code of your
@@ -86,13 +86,13 @@ section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting com
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
 section7-cta-right: <p><a href="mailto:b2b@silex.me" title="Contact Silex team for
   professionals">Contact The Team</a></p>
-section7-cta-left: <p><a href="./professionals" title="Silex PRO features for agencies">More
+section7-cta-left: <p><a href="/professionals/" title="Silex PRO features for agencies">More
   PRO features</a></p>
 section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
   because free minds need to have free tools</p>"
-section8-cta-right: <p><a href="./commencer" title="Commencez avec Silex"><strong>Commencer
+section8-cta-right: <p><a href="/commencer/" title="Commencez avec Silex"><strong>Commencer
   !</strong></a></p>
-section8-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
+section8-cta-left: <p><a href="/features/" title="Silex features">More features</a></p>
 community: "<h2><strong>Follow us, join the community !</strong></h2><h3>Silex is
   free and open source because free minds need to have free tools</h3>"
 community-meetup: <p><a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Join
@@ -105,8 +105,8 @@ community-forums: <p><a href="https://github.com/silexlabs/Silex/issues" title="
   forums"><strong>Forums</strong></a></p><p><em>Real advice from real people</em></p>
 silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which started
   it all"><strong>SILEXLABS</strong></a></p><p>The non profit where it all started</p>
-footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
-  href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
+footer-left: <p>PRODUCTS</p><p><a href="/features/" title="Features">Features</a></p><p><a
+  href="/create/" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
   title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
   Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
@@ -117,7 +117,7 @@ footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Si
   title="Contribute to Silex">Contribute</a></p><p><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
   title="Silex has dual license">Lisense (MPL or </a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE"
   title="GPL Silex License">GPL</a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
-  title="Silex has dual license">)</a></p><p><a href="./community#partners" title="Silex
+  title="Silex has dual license">)</a></p><p><a href="/community/#partners" title="Silex
   partners">Partners</a></p><p><a href="https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&amp;id=2e1b03a5f0"
   title="Mailing list">Updates &amp; Releases</a></p><p><a href="mailto:b2b@silex.me"
   title="Contact Silex founder">Contact Us</a></p>

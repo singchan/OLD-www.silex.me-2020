@@ -8,7 +8,7 @@ hero-slider:
 - Like Wix for Makers
 - A hackable Unbounce
 - An Adobe muse successor
-hero-cta: <p><a href="./get-started" title="Get started with Silex website builder"><strong>Get
+hero-cta: <p><a href="/get-started/" title="Get started with Silex website builder"><strong>Get
   started!</strong></a></p>
 hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
@@ -27,12 +27,12 @@ section1: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re
   tool for designers">you’re a designer</a> making websites for customers,<br>you
   will love Silex.</h3><p><br><br></p><p><strong>✦</strong></p><p><br><br></p><h2><strong>Your
   Design, Your Way!</strong></h2><h3>Free is not just about price. #Freedom.</h3>'
-section1-cta-right: <p><a href="./get-started" title="Get started with Silex website
+section1-cta-right: <p><a href="/get-started/" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>
 section2: "<h2><strong>Start Silex online</strong></h2><h3>Connect an existing account</h3><p>Use
   the instance provided Silex Labs for free, no installation, store your data in your
   Dropbox, Owncloud, GitHub or FTP, get started immediately!</p>"
-section2-cta-right: <p><a href="./get-started#online" title="">Start now!</a></p>
+section2-cta-right: <p><a href="/get-started/#online" title="">Start now!</a></p>
 section2-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki" title="">Documentation</a></p>
 section3: "<h2><strong>Download Silex Desktop App</strong></h2><h3>Local is faster
   and nicer !</h3><p>Use the desktop version of Silex to work offline, store your
@@ -54,20 +54,20 @@ section5-cta-right: <p><a href="https://www.npmjs.com/package/silex-website-buil
   title="Silex package on npm">Silex on npm</a></p>
 section6: "<h2><strong>Powerful features for your website</strong></h2><h3>From Many
   useful and powerful functionalities</h3>"
-section6-cta-right: <p><a href="./get-started" title="Get started with Silex website
+section6-cta-right: <p><a href="/get-started/" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>
-section6-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
+section6-cta-left: <p><a href="/features/" title="Silex features">More features</a></p>
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
 section7-cta-right: <p><a href="mailto:b2b@silex.me" title="Contact Silex team for
   professionals">Contact The Team</a></p>
-section7-cta-left: <p><a href="./professionals" title="Silex PRO features for agencies">More
+section7-cta-left: <p><a href="/professionals/" title="Silex PRO features for agencies">More
   PRO features</a></p>
 section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
   because free minds need to have free tools</p>"
-section8-cta-right: <p><a href="./get-started" title="Get started with Silex website
+section8-cta-right: <p><a href="/get-started/" title="Get started with Silex website
   builder"><strong>Get started!</strong></a></p>
-section8-cta-left: <p><a href="./features" title="Silex features">More features</a></p>
+section8-cta-left: <p><a href="/features/" title="Silex features">More features</a></p>
 community: "<h2><strong>Follow us, join the community !</strong></h2><h3>Silex is
   free and open source because free minds need to have free tools</h3>"
 community-meetup: <p><a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Join
@@ -80,8 +80,8 @@ community-forums: <p><a href="https://github.com/silexlabs/Silex/issues" title="
   forums"><strong>Forums</strong></a></p><p><em>Real advice from real people</em></p>
 silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which started
   it all"><strong>SILEXLABS</strong></a></p><p>The non profit where it all started</p>
-footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
-  href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
+footer-left: <p>PRODUCTS</p><p><a href="/features/" title="Features">Features</a></p><p><a
+  href="/create/" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
   title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases"
   title="Download Silex Desktop">Downloads</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-Developer-Guide"
@@ -92,7 +92,7 @@ footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Si
   title="Contribute to Silex">Contribute</a></p><p><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
   title="Silex has dual license">Lisense (MPL or </a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE"
   title="GPL Silex License">GPL</a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
-  title="Silex has dual license">)</a></p><p><a href="./community#partners" title="Silex
+  title="Silex has dual license">)</a></p><p><a href="/community/#partners" title="Silex
   partners">Partners</a></p><p><a href="https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&amp;id=2e1b03a5f0"
   title="Mailing list">Updates &amp; Releases</a></p><p><a href="mailto:b2b@silex.me"
   title="Contact Silex founder">Contact Us</a></p>
@@ -134,7 +134,7 @@ features:
 - feature: "<h3>Do not lock yourself in</h3><p>We did not create concepts or jargon,
     we use those from the open web standards. What you learn here will be useful to
     you, everywhere.</p>"
-section1-cta-left: <p><a href="./create" title="Learn more about Silex and freedom"><strong>More
+section1-cta-left: <p><a href="/create/" title="Learn more about Silex and freedom"><strong>More
   about freedom</strong></a></p>
 section5-cta-left: <p><a href="https://github.com/silexlabs/Silex/wiki/How-To-Add-Silex-To-Your-Node.js-Project"
   title="Add Silex To Your Node.js Project">Documentation</a></p>

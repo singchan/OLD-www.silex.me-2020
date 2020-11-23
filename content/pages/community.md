@@ -4,13 +4,13 @@ permalink: "/community/"
 layout: community
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
-section7-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section7-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
 section7-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
   FEATURES</strong></a></p>
 section8: "<h2><strong>More about freedom</strong></h2><p>Silex is free and open source
   because free minds need to have free tools</p>"
-section8-cta-right: <p><a href="./get-started" title="Create website in Silex">Get
+section8-cta-right: <p><a href="/get-started/" title="Create website in Silex">Get
   started!</a></p>
 section8-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
   FEATURES</strong></a></p>
@@ -26,8 +26,8 @@ community-forums: <p><a href="https://github.com/silexlabs/Silex/issues" title="
   forums"><strong>Forums</strong></a></p><p><em>Real advice from real people</em></p>
 silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which started
   it all"><strong>SILEXLABS</strong></a></p><p>The non profit where it all started</p>
-footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
-  href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
+footer-left: <p>PRODUCTS</p><p><a href="/features/" title="Features">Features</a></p><p><a
+  href="/create/" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
   title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://ceubri.github.io/silex-2020/#">Silex
   SEO</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
@@ -39,7 +39,7 @@ footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Si
   title="Contribute to Silex">Contribute</a></p><p><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
   title="Silex has dual license">Lisense (MPL or </a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE"
   title="GPL Silex License">GPL</a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
-  title="Silex has dual license">)</a></p><p><a href="./community#partners" title="Silex
+  title="Silex has dual license">)</a></p><p><a href="/community/#partners" title="Silex
   partners">Partners</a></p><p><a href="https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&amp;id=2e1b03a5f0"
   title="Mailing list">Updates &amp; Releases</a></p><p><a href="mailto:b2b@silex.me"
   title="Contact Silex founder">Contact Us</a></p>

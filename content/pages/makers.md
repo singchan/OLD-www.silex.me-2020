@@ -27,8 +27,8 @@ community-forums: <p><a href="https://github.com/silexlabs/Silex/issues" title="
   forums"><strong>Forums</strong></a></p><p><em>Real advice from real people</em></p>
 silexlabs: <p><a href="https://www.silexlabs.org/" title="The non profit which started
   it all"><strong>SILEXLABS</strong></a></p><p>The non profit where it all started</p>
-footer-left: <p>PRODUCTS</p><p><a href="./features" title="Features">Features</a></p><p><a
-  href="./create" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
+footer-left: <p>PRODUCTS</p><p><a href="/features/" title="Features">Features</a></p><p><a
+  href="/create/" title="Silex Website Builder">Website Builder</a></p><p><a href="https://github.com/silexlabs/Silex/wiki/Silex-and-Javascript"
   title="Silex and javascript">HTML, CSS and JS inside Silex</a></p><p><a href="mailto:b2b@silex.me"
   title="Silex founder Alex Hoyau">Paid services</a></p><p><a href="https://ceubri.github.io/silex-2020/#">Silex
   SEO</a></p><p><a href="https://github.com/silexlabs/silex-desktop/releases" title="Download
@@ -40,7 +40,7 @@ footer-middle: <p>SILEX TEAM</p><p><a href="http://www.silexlabs.org/" title="Si
   title="Contribute to Silex">Contribute</a></p><p><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
   title="Silex has dual license">Lisense (MPL or </a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE"
   title="GPL Silex License">GPL</a><a href="https://github.com/silexlabs/Silex/blob/develop/LICENSE_MPL"
-  title="Silex has dual license">)</a></p><p><a href="./community#partners" title="Silex
+  title="Silex has dual license">)</a></p><p><a href="/community/#partners" title="Silex
   partners">Partners</a></p><p><a href="https://silexlabs.us7.list-manage.com/subscribe?u=fe927d10e2d20f286e59ef0b7&amp;id=2e1b03a5f0"
   title="Mailing list">Updates &amp; Releases</a></p><p><a href="mailto:b2b@silex.me"
   title="Contact Silex founder">Contact Us</a></p>
@@ -83,11 +83,11 @@ section9: "<h2>Hacking Without Limits</h2><p>Code from within the editor, with i
   feedback. <br>Add any front end feature. Plug into any third party API.<br>If a
   feature is missing, we will help you learn how to<br>use HTML, CSS, Javascript from
   within Silex.</p>"
-section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section9-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 section10: '<h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is
   extremely simple yet powerful: <br>no databases, no template language, no plugins.<br>This
   means no security issues, no "important" updates.</p>'
-section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+section10-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
 section6-cta: ''
 section5-cta: ''
 section2-image: <p><img src="/uploads/ico-step-01.svg"></p>

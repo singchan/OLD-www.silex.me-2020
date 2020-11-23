@@ -77,8 +77,8 @@ section5: "<h2>Total Design Freedom, DIY!</h2><p>With Silex, you can create any 
   design, pixel perfect.<br>If a feature is missing, we will help you learn how to<br>use
   HTML and CSS from within Silex.</p>"
 section6: "<h2>Silex Publication,<br>Get Online, be Lightning Fast!</h2><p>Publish
-  your website to any hosting<br>We provide free hosting solutions<br>even with your
-  own domain name and without ads.</p>"
+  your website to any hosting.<br>Silex integrates with professional<br>free hosting
+  solutions with your own domain name and<br>without ads.</p>"
 section9: "<h2>Hacking Without Limits</h2><h3>Open to your code at every level</h3><p>You
   can code from within the editor, with immediate feedback and the deployment capabilities
   of Silex. Add any front end feature. Plug into any third party API, add transitions,

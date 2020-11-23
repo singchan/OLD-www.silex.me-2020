@@ -14,14 +14,18 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <p><img src="/uploads/ico-step-01.svg"></p><h3>Open</h3><p>Open Silex website
-    builder in a browser. Choose a free designer-made template you like.</p>
-- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Customize</h3><p>Customize
-    anything on your site. You can add videos, images, text &amp; more.</p>
-- html: <p><img src="/uploads/ico-step-03.svg"></p><h3>Publish</h3><p>When you’re
-    ready, publish your website to easily share it with the world.</p>
-- html: <p><img src="/uploads/ico-step-02.svg"></p><h3>Grow</h3><p>Add more as you
-    grow, like transitions, animations, typography, loaders, and much more.</p>
+- html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
+    title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
+    title="">install the app on your computer</a>,<br>choose a free template or start
+    with a blank page</p>
+- html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can add
+    text, images, videos &amp; more...</p>
+- html: <p><img src="/uploads/01-diy_256.gif"></p><h2>Total Design Freedom, DIY!</h2><p>Elements
+    are absolutely positioned to make it feel natural.<br>Use the mobile editor to
+    design the mobile version too.</p>
+- html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you are
+    ready, publish your website<br>Silex integrates with professional free hosting
+    providers<br>with your own domain name and without ads.</p>
 section1: '<h3>Whether <a href="/makers/" title="Silex for makers, DIY">you’re a maker</a>
   about to create your project''s website<br>or <a href="/create/" title="Silex, nocode
   tool for designers">you’re a designer</a> making websites for customers,<br>you

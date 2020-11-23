@@ -74,7 +74,8 @@ section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add 
 section4: "<h2>Publish!</h2><p>When you are ready,<br>publish your website in just
   a few clicks, as often as you want.</p>"
 section5: "<h2>Total Design Freedom, DIY!</h2><p>With the Silex, you can create any
-  custom design, pixel perfect.</p>"
+  custom design, pixel perfect. If a feature is missing, we will help you learn how
+  to use HTML and CSS from within Silex.</p>"
 section6: "<h2>Silex Publication,<br>Get Online Fast!</h2><h3>Lightning fast</h3><p>Publish
   your website to any hosting - we provide with free options even with your own domain
   name and without ads.</p>"

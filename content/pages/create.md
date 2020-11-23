@@ -89,12 +89,12 @@ section10: '<h2>The static nature of your<br>drag and drop editor</h2><p>Silex i
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section5-cta: "<p></p>"
 section6-cta: ''
-section2-image: <p><img src="/www.silex.me-2020/uploads/ico-step-01.svg"></p>
-section3-image: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p>
-section4-image: <p><img src="/www.silex.me-2020/uploads/ico-step-03.svg"></p>
-section5-image: ''
-section6-image: ''
-section9-image: ''
+section2-image: "<p></p>"
+section3-image: "<p></p>"
+section4-image: "<p></p>"
+section5-image: "<p></p>"
+section6-image: "<p></p>"
+section9-image: "<p></p>"
 section10-image: ''
 
 ---

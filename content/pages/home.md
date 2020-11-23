@@ -14,10 +14,10 @@ hero-above: 'Are you looking for :'
 hero-bellow: You are in the right place !
 permalink: "/"
 header-slideshow:
-- html: <p><img src="/uploads/ico-step-01.svg"></p><h2><strong>Get started</strong></h2><p><a
-    href="http://localhost:8080/get-started/" title="Silex editor">Open Silex in a
-    browser</a>, or <a href="http://localhost:8080/makers/" title="">install the app
-    on your computer</a>,<br>choose a free template or start with a blank page</p>
+- html: <p><img src="/uploads/ico-step-01.svg"></p><h2>Get started</h2><p><a href="http://localhost:8080/get-started/"
+    title="Silex editor">Open Silex in a browser</a>, or <a href="http://localhost:8080/makers/"
+    title="">install the app on your computer</a>,<br>choose a free template or start
+    with a blank page</p>
 - html: <p><img src="/uploads/ico-step-02.svg"></p><h2>Customize</h2><p>you can add
     text, images, videos &amp; more...</p>
 - html: <p><img src="/uploads/ico-step-03.svg"></p><h2>Publish!</h2><p>When you are

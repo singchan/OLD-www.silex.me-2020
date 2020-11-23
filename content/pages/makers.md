@@ -62,7 +62,7 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
 header: "<h2>Very Fast Landing Pages,<br>Efficient Marketing Websites</h2><h3>To promote
-  your project with the DIY spirit, you need full control over your website and the
+  your project with the DIY spirit, you need<br>full control over your website + the
   best design.</h3>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>Create a free website with Silex</h2><h3>Step by step process</h3>"

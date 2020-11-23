@@ -92,8 +92,8 @@ section10-cta: <p><a href="./get-started" title="Create website in Silex">Get st
 section6-cta: ''
 section5-cta: ''
 section2-image: <p><img src="/uploads/ico-step-01.svg"></p>
-section3-image: <p><img src="/www.silex.me-2020/uploads/ico-step-02.svg"></p>
-section4-image: <p><img src="/www.silex.me-2020/uploads/ico-step-03.svg"></p>
+section3-image: <p><img src="/uploads/ico-step-02.svg"></p>
+section4-image: <p><img src="/uploads/ico-step-03.svg"></p>
 section5-image: ''
 section6-image: ''
 section9-image: ''

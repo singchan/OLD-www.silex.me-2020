@@ -114,13 +114,13 @@ items:
     title="Google PSI test">Page Speed Insight</a> score for Silex websites is<br><strong>&gt;
     90% on desktop as well as on mobile</strong>.</p>
   cta: ''
-- text: "<h2>Hacking without limits</h2><p>You can code from within the editor, with<strong>
+- text: "<h2>Hacking without limits</h2><p>You can code from within the editor,<br>with<strong>
     immediate feedback</strong>. <br><strong>Add any front end feature</strong>. Plug
     into any third party API.</p>"
   cta: ''
-- text: '<h2>The static nature of your<br>drag and drop editor</h2><p>Silex is extremely
-    simple yet powerful: <br>no databases, no template language, no plugins.<br>This
-    means <strong>no security issues</strong>, <strong>no "important" updates</strong>.</p>'
+- text: <h2>The static nature of your<br>drag and drop editor</h2><p>Silex uses only
+    file, so it has <br>no databases, no template language, no plugins.<br>This means
+    <strong>no security issues</strong>, <strong>no "important" updates</strong>.</p>
   cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 
 ---

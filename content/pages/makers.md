@@ -94,7 +94,7 @@ section5-cta: ''
 section2-image: <p><img src="/uploads/ico-step-01.svg"></p>
 section3-image: <p><img src="/uploads/ico-step-02.svg"></p>
 section4-image: <p><img src="/uploads/ico-step-03.svg"></p>
-section5-image: ''
+section5-image: <p><img src="/uploads/01-diy_256.gif"></p>
 section6-image: ''
 section9-image: ''
 section10-image: ''

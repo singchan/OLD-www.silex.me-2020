@@ -76,7 +76,7 @@ section4: "<h2>Publish!</h2><p>When you are ready,<br>publish your website in ju
 section5: "<h2>Total Design Freedom, DIY!</h2><p>With the Silex, you can create any
   custom design, pixel perfect. If a feature is missing, we will help you learn how
   to use HTML and CSS from within Silex.</p>"
-section6: "<h2>Silex Publication,<br>Get Online Fast!</h2><h3>Lightning fast</h3><p>Publish
+section6: "<h2>Silex Publication,<br>Get Online, be Fast!</h2><h3>Lightning fast</h3><p>Publish
   your website to any hosting - we provide with free options even with your own domain
   name and without ads.</p>"
 section9: "<h2>Hacking Without Limits</h2><h3>Open to your code at every level</h3><p>You

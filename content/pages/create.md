@@ -94,5 +94,33 @@ section5-image: "<p></p>"
 section6-image: "<p></p>"
 section9-image: "<p></p>"
 section10-image: ''
+items:
+- text: "<h2>Creative process</h2><p>Design a website as you would draw it, <strong>iterate
+    over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
+  cta: ''
+- text: "<h2>♥ Open source free software</h2><p>Silex is <strong>forever free</strong>,
+    integrates with<strong> other tools</strong>, has endless <strong>customization</strong>.</p>"
+  cta: ''
+- text: "<h2>Total design freedom, DIY!</h2><p>You can create any custom design, or
+    clone one, pixel perfect.<br>Elements are absolutely positioned to make it feel
+    natural.<br>Use the mobile editor to design the mobile version too.</p>"
+  cta: ''
+- text: "<h2>DIY spirit</h2><p>As a <strong>nocode tool</strong>, Silex is <strong>maker
+    friendly</strong>, with a <strong>loving community</strong></p>"
+  cta: ''
+- text: <h2>Beyond nice looking</h2><p>Due to its static nature, your website will
+    be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
+    title="Google PSI test">Page Speed Insight</a> score for Silex websites is &gt;
+    90%<br>on desktop and on mobile.</p>
+  cta: ''
+- text: "<h2>Hacking without limits</h2><p>You can code from within the editor, with
+    immediate feedback. <br>Add any front end feature. Plug into any third party API.<br>If
+    a feature is missing, we will help you learn how to<br>use HTML, CSS, Javascript
+    from within Silex.</p>"
+  cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
+- text: '<h2>The static nature of your<br>drag and drop editor</h2><p>Silex is extremely
+    simple yet powerful: <br>no databases, no template language, no plugins.<br>This
+    means no security issues, no "important" updates.</p>'
+  cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 
 ---

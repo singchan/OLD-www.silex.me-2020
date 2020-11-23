@@ -87,8 +87,6 @@ section10: '<h2>The static nature of your<br>drag and drop editor</h2><p>Silex i
   extremely simple yet powerful: <br>no databases, no template language, no plugins.<br>This
   means no security issues, no "important" updates.</p>'
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section5-cta: "<p></p>"
-section6-cta: ''
 section2-image: "<p></p>"
 section3-image: "<p></p>"
 section4-image: "<p></p>"

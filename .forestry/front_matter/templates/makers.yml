@@ -1,6 +1,6 @@
 ---
-id: create
-label: create
+id: makers
+label: makers
 fields:
   - type: text
     name: title
@@ -29,6 +29,142 @@ fields:
   - type: textarea
     name: section1
     label: Section 1
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section2-image
+    label: Section 2 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section2
+    label: Section 2
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section3-image
+    label: Section 3 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section3
+    label: Section 3
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section4-image
+    label: Section 4 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section4
+    label: Section 4
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section5
+    label: Section 5
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section5-image
+    label: Section 5 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section5-cta
+    label: Section 5 CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section6
+    label: Section 6
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section6-image
+    label: Section 6 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section6-cta
+    label: Section 6 CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section9
+    label: Section 9
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section9-image
+    label: Section 9 image
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section9-cta
+    label: Section 9 CTA
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section10
+    label: Section 10
+    default: ''
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: textarea
+    name: section10-cta
+    label: Section 10 CTA
     default: ''
     config:
       wysiwyg: true
@@ -158,27 +294,14 @@ fields:
     name: lang
     label: Lang
     default: en
-  - type: field_group_list
-    name: items
-    label: Items
+  - type: textarea
+    name: section10-image
+    label: Section 10 image
     default: ''
-    fields:
-      - type: textarea
-        name: text
-        label: Text
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
-      - type: textarea
-        name: cta
-        label: CTA
-        default: ''
-        config:
-          wysiwyg: true
-          schema:
-            format: html-blocks
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
   - name: permalink
     type: text
     label: Permalink
@@ -188,8 +311,8 @@ fields:
     type: text
     hidden: true
     label: layout
-    default: create
+    default: makers
     config:
       required: true
-name: create.yml
+name: makers.yml
 hide_body: true

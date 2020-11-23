@@ -1,6 +1,6 @@
 ---
 permalink: "/makers/"
-layout: create
+layout: makers
 title: DIY for makers | Silex website builder
 description: Produce a website for free with this Low-code / no-code tool for Makers
 lang: en

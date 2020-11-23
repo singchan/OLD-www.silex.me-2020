@@ -72,10 +72,10 @@ section2: "<h2>Open</h2><p>Open Silex in a browser, or install the app on your c
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
   images, videos &amp; more...</p>"
 section4: "<h2>Publish!</h2><p>When you are ready,<br>publish your website in just
-  a few clicks, as often as you want.</p>"
-section5: "<h2>Total Design Freedom, DIY!</h2><p>With the Silex, you can create any
-  custom design, pixel perfect. If a feature is missing, we will help you learn how
-  to use HTML and CSS from within Silex.</p>"
+  a few clicks, </p><p>as often as you want.</p>"
+section5: "<h2>Total Design Freedom, DIY!</h2><p>With Silex, you can create any custom
+  design, pixel perfect. </p><p>If a feature is missing, </p><p>we will help you learn
+  how to use HTML and CSS from within Silex.</p>"
 section6: "<h2>Silex Publication,<br>Get Online, be Fast!</h2><h3>Lightning fast</h3><p>Publish
   your website to any hosting - we provide with free options even with your own domain
   name and without ads.</p>"
@@ -97,7 +97,7 @@ section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files onl
   work offline. And finally, Silex generates websites which are so simple that you
   can host them for free with GitHub Pages, or push directly to any web host.</p>"
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section5-cta: "<p>test</p>"
+section5-cta: "<p></p>"
 section6-cta: ''
 
 ---

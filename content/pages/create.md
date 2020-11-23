@@ -1,6 +1,8 @@
 ---
 lang: en
 layout: create
+title: Design professional websites | Silex website builder
+description: Design a website as you would draw it, iterate over your design, embrace the live web creation process.
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
 section7-cta-right: <p><a href="./get-started" title="Create website in Silex">Get

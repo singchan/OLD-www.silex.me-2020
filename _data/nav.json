@@ -22,11 +22,11 @@
   "/create": {
     "en": {
       "path": "/create",
-      "name": "Create"
+      "name": "Designers"
     },
     "fr": {
       "path": "/fr/creer",
-      "name": "Créer"
+      "name": "Designers"
     }
   },
   "/features": {
@@ -37,6 +37,16 @@
     "fr": {
       "path": "/fr/fonctionnalites",
       "name": "Fonctionnalités"
+    }
+  },
+  "/makers": {
+    "en": {
+      "path": "/makers",
+      "name": "Makers"
+    },
+    "fr": {
+      "path": "/fr/makers",
+      "name": "No-code"
     }
   },
   "/pro": {

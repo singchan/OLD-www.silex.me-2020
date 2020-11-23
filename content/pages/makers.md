@@ -1,8 +1,8 @@
 ---
-permalink: /makers/
+permalink: "/makers/"
 layout: create
 title: DIY for makers | Silex website builder
-description: Produce websites for free withe this Low-code / no-code tool for Makers. Silex website builder
+description: Produce a website for free with this Low-code / no-code tool for Makers
 lang: en
 section7: "<h2>Silex for professionals</h2><p>Freelancers, agencies, hosting companies,
   Silex is the best at being customized, white labeled and integrated to your infrastructure</p>"
@@ -61,8 +61,9 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   hosted by GitHub, powered by <a href="https://www.silex.me/" title="Silex free website
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
-header: "<h2><strong>Your Design, Your Way!</strong></h2><h3>Free is not just about
-  price. #Freedom.</h3>"
+header: "<h2>Your Project Deserve A Very Fast Landing Page, Inbound Marketing Website,
+  E-Commerce, ...</h2><h3>Plus Silex is Compatible With All the DIY Tools and Marketing
+  Services.</h3>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>Create a free website with Silex</h2><h3>Step by step process</h3>"
 section2: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open
@@ -73,22 +74,23 @@ section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add 
 section4: "<h2>Publish!</h2><p>When you are ready, publish your website <br>Silex
   integrates with professional free hosting providers<br>with your own domain name
   and without ads.</p>"
-section5: "<h2>Total Design Freedom, DIY!</h2><p>Create any custom design,
-  or clone one, pixel perfect.<br>Elements are absolutely positioned to make it feel
-  natural.<br>Use the mobile editor to design the mobile version too.</p>"
+section5: "<h2>Total Design Freedom, DIY!</h2><p>Create any custom design, or clone
+  one, pixel perfect.<br>Elements are absolutely positioned to make it feel natural.<br>Use
+  the mobile editor to design the mobile version too.</p>"
 section6: <h2>Be Online, Be Fast!</h2><p>Due to its static nature, your website will
   be very fast to load.<br>The <a href="https://developers.google.com/speed/pagespeed/insights/"
-  title="Google PSI test">Page Speed Insight</a> score of a Silex site is at least 90%<br>on desktop as well as on mobile.</p>
-section9: "<h2>Hacking Without Limits</h2><p>Code from within the editor,
-  with immediate feedback. <br>Add any front end feature. Plug into any third party
-  API.<br>If a feature is missing, we will help you learn how to<br>use HTML, CSS,
-  Javascript from within Silex.</p>"
+  title="Google PSI test">Page Speed Insight</a> score of a Silex site is at least
+  90%<br>on desktop as well as on mobile.</p>
+section9: "<h2>Hacking Without Limits</h2><p>Code from within the editor, with immediate
+  feedback. <br>Add any front end feature. Plug into any third party API.<br>If a
+  feature is missing, we will help you learn how to<br>use HTML, CSS, Javascript from
+  within Silex.</p>"
 section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section10: '<h2>The Static Nature of Your<br>Drag and Drop Editor</h2><p>Silex is
   extremely simple yet powerful: <br>no databases, no template language, no plugins.<br>This
   means no security issues, no "important" updates.</p>'
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section6-cta: ''
-
+section5-cta: ''
 
 ---

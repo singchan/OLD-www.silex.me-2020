@@ -83,16 +83,9 @@ section9: "<h2>Hacking Without Limits</h2><p>You can code from within the editor
   with immediate feedback. <br>Add any front end feature. Plug into any third party
   API. <br>Change your website behavior with JQuery, HTML, CSS.</p>"
 section9-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section10: "<h2>The beauty of a static<br>drag and drop editor</h2><h3>Files only,
-  your files where you want it to be</h3><p>Due to its static nature and the way elements
-  are absolutely positioned, Silex is extremely simple yet powerful: no databases,
-  no security issues, no limitations for the design. Plus it is free and open source
-  so you own your data and get to choose where you store it while working on your
-  website–on your Dropbox or Own Cloud or Next Cloud for their collaborative capabilities,
-  on GitHub for the versioning or FTP or local file system. Most of these services
-  are available online so you can work from anywhere, or use the desktop version to
-  work offline. And finally, Silex generates websites which are so simple that you
-  can host them for free with GitHub Pages, or push directly to any web host.</p>"
+section10: "<h2>The beauty of a static<br>drag and drop editor</h2><p>Due to its static
+  nature and the way elements are absolutely positioned, Silex is extremely simple
+  yet powerful: no databases, no security issues, no limitations for the design.</p>"
 section10-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section5-cta: "<p></p>"
 section6-cta: ''

@@ -3,6 +3,7 @@ layout: home
 hero-slider:
 - A truly free website builder
 - A tool to learn as you build
+- A friendly community growing with you
 - A Wix for Makers
 - A hackable Unbounce
 - An Adobe muse successor

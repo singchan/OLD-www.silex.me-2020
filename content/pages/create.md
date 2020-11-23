@@ -59,12 +59,12 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   builder">Silex Website Builder</a> and <a href="https://forestry.io/" title="Forestry">Forestry
   headless CMS</a></p></li></ul>
 permalink: "/create/"
-header: "<h2><strong>Create anything, your way!</strong></h2><h3>Free minds need free
-  tools to make the world a better place</h3><p>Freedom in the case of a website builder
-  means <strong>forever free</strong> guarantee, open <strong>standards</strong>,
+header: "<h2><strong>Create anything, your way!</strong></h2><h3>Free is not just
+  about price, we're talking Freedom here</h3><p>Freedom in the case of a website
+  builder means <strong>forever free</strong> guarantee, open <strong>standards</strong>,
   easy <strong>integration</strong> with other tools, friendly passionate <strong>community</strong>,
-  infinite <strong>customization</strong> possibilities. And also a freedom to design
-  a website as you would draw it.</p>"
+  infinite <strong>customization</strong> possibilities.</p><p>And finally : <strong>Freedom
+  to design a website as you would draw it</strong>.</p>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
 section1: "<h2>How to create a free website website</h2><h3>builder in just <strong>3
   easy steps</strong>:</h3>"

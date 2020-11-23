@@ -62,8 +62,8 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   headless CMS</a></p></li></ul>
 header: "<h2>Take full control over your web presence</h2><h3>with the DIY Spirit</h3>"
 hero-cta: <p><a href="/get-started/" title="Create website in Silex">Get started!</a></p>
-section1: "<h2>From a very Fast Landing Page to an Efficient Inbound Marketing Website</h2><h3>Step
-  by step process to create a free website with Silex</h3>"
+section1: "<h2>From a very Fast Landing Page<br>to an Efficient Inbound Marketing
+  Website</h2><h3>Step by step process to create a free website with Silex</h3>"
 section2: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open
   Silex in a browser</a>, or <a href="" title="">install the app on your computer</a>,<br>choose
   a free template or start with a blank page</p>

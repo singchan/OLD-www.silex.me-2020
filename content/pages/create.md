@@ -75,9 +75,9 @@ section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add 
 section4: "<h2>Publish!</h2><p>When you are ready, publish your website <br>Silex
   integrates with professional free hosting providers<br>with your own domain name
   and without ads.</p>"
-section5: "<h2>Total Design Freedom, DIY!</h2><p>With Silex, you can create any custom
-  design, pixel perfect.<br>This is due to the way elements are absolutely positioned.<br>Thanks
-  to the mobile editor this applies to the mobile version too.</p>"
+section5: "<h2>Total Design Freedom, DIY!</h2><p>You can create any custom design,
+  or clone one, pixel perfect.<br>Elements are absolutely positioned to make it feel
+  natural.<br>Use the mobile editor to design the mobile version too.</p>"
 section6: <h2>Be Online, Be Fast!</h2><p>Due to its static nature, your website will
   be very fast to load.<br>The usual <a href="https://developers.google.com/speed/pagespeed/insights/"
   title="Google PSI test">Page Speed Insight</a> score for Silex websites is &gt;

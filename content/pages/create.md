@@ -60,16 +60,16 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
   headless CMS</a></p></li></ul>
 permalink: "/create/"
 header: "<h2><strong>Your Design, Your Way!</strong></h2><h3>Free is not just about
-  price. #Freedom.</h3><hr><p>1. Design a website as you would draw it, <strong>iterate
-  over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p><p>2.
-  Silex is <strong>forever free</strong>, integrates with<strong> other tools</strong>,
-  endless <strong>customization</strong>,<br><strong>♥</strong> Open Source Free Software</p><p>3.
-  As a <strong>nocode tool</strong>, Silex is <strong>maker friendly</strong>, with
-  a <strong>loving community</strong></p>"
+  price. #Freedom.</h3>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section1: "<h2>Create a Free Website With Silex</h2>"
-section2: "<h2>Getting started</h2><p>Open Silex in a browser, or install the app
-  on your computer,<br>choose a free template or start with a blank page</p>"
+section1: "<p>Design a website as you would draw it, <strong>iterate over your design</strong>,<br>embrace
+  the <strong>live web creation</strong> process</p><p>Silex is <strong>forever free</strong>,
+  integrates with<strong> other tools</strong>, endless <strong>customization</strong>,<br><strong>♥</strong>
+  Open Source Free Software</p><p>As a <strong>nocode tool</strong>, Silex is <strong>maker
+  friendly</strong>, with a <strong>loving community</strong></p>"
+section2: <h2>Get started</h2><p><a href="/get-started/" title="Silex editor">Open
+  Silex in a browser</a>, or install the app on your computer,<br>choose a free template
+  or start with a blank page</p>
 section3: "<h2>Customize</h2><p>Customize anything on your site,<br>you can add text,
   images, videos &amp; more...</p>"
 section4: "<h2>Publish!</h2><p>When you are ready, publish your website <br>Silex

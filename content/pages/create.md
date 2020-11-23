@@ -16,8 +16,8 @@ section8-cta-right: <p><a href="./get-started" title="Create website in Silex">G
   started!</a></p>
 section8-cta-left: <p><a href="http://localhost:8080/features" title="Silex features"><strong>MORE
   FEATURES</strong></a></p>
-community: "<h2><strong>Follow us, join the community !</strong><br></h2><h3>Silex
-  is free and open source because free minds need to have free tools</h3>"
+community: "<h2><strong>Follow us, join the community !</strong></h2><h3>Silex is
+  free and open source because free minds need to have free tools</h3>"
 community-meetup: <p><a href="https://www.meetup.com/Silex-Labs-Aperopensource/" title="Join
   or create your Meetup group"><strong>Silex Meetups</strong></a></p><p><em>Join or
   create your Meetup group</em></p>
@@ -64,7 +64,7 @@ footer: <ul><li><p>Silex is maintained by <a href="https://github.com/lexoyo" ti
 permalink: "/create/"
 header: "<h2>Your design, your way!</h2><h3>Free is not just about price. #Freedom.</h3>"
 hero-cta: <p><a href="./get-started" title="Create website in Silex">Get started!</a></p>
-section1: "<h2>Why should you choose Silex </h2><h3>to showcase products or a project?</h3>"
+section1: "<h2>Why you should choose Silex</h2><h3>to showcase products or a project?</h3>"
 section2: "<h2>Creative process</h2><p>Design a website as you would draw it, <strong>iterate
   over your design</strong>,<br>embrace the <strong>live web creation</strong> process</p>"
 section3: "<h2>♥ Open source free software</h2><p>Silex is <strong>forever free</strong>,
